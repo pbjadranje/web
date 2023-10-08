@@ -10,6 +10,44 @@ layout: base.html
     {{ summary }}
     </div>
 
+    {% if results or winner_abs or winner_cor %}
+        <h2 class="!mb-gap">{% block title %} Rezultati {% endblock %}</h2>
+
+        {% if winner_abs %}
+            <li>Zmagovalec - absolutno: <b>{{ winner_abs }}</b></li>
+        {% endif %}
+
+        {% if winner_cor %}
+            <li>Zmagovalec - korigirano: <b>{{ winner_cor }}</b></li>
+        {% endif %}
+
+        {% if results %}
+            <li><a href="{{ results }}">Rezultati</a></li>
+        {% endif %}
+
+    {% endif %}
+
+    {% if nor or rules or apply %}
+        <h2 class="!mb-gap">{% block title %} Razpisni dokumenti {% endblock %}</h2>
+
+        {% if nor %}
+            <li><a href="{{ weather }}">Spremljanje vremenske napovedi</a></li>
+        {% endif %}
+
+        {% if nor %}
+            <li><a href="{{ nor }}">Program</a></li>
+        {% endif %}
+
+        {% if rules %}
+            <li><a href="{{ rules }}">Pravila</a></li>
+        {% endif %}
+
+        {% if apply %}
+            <li><a href="{{ apply }}">Prijavnica</a></li>
+        {% endif %}
+
+    {% endif %}
+
     {{ content }}
 </div>
 {% endblock %}

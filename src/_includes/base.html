@@ -27,7 +27,9 @@
 
     <main>
         {% block content %}
-        {{ content }}
+        <div class="prose lg:prose-lg prose-neutral mx-auto px-gap prose-headings:font-sans prose-headings:font-bold">
+            {{ content }}
+        </div>
         {% endblock %}
     </main>
 
