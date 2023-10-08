@@ -2,12 +2,12 @@
 title: III. Predbožično jadranje
 date: 1990-12-19
 year: 1990
-nor: program/index.html
+nor: https://drive.google.com/file/d/1s7DZrAFVfSV-2BdSlL4cZCRVtMqlCWUi/view?usp=sharing
+results: https://drive.google.com/file/d/1-5hY2ies1lTFE6i1ow6Ipyy3QChtpCxC/view?usp=sharing
 boats: 3
 winner_abs: Elektra
 winner_cor: Bianca
-results: rezultati/index.html
-summary: "Prvo merjenje časa in prvi zmagovalci generalno in korigirano."
+summary: "Prvo merjenje časa in prvi zmagovalci: generalno in korigirano."
 ---
 
 III. Predbožično jadranje se letos prične 19. decembra v marini Lervar in konča po štirih etapah, v marini Lervar, 23. decembra.
