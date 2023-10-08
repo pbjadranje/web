@@ -2,14 +2,25 @@
 title: XXXIII. Predbožično jadranje
 date: 2021-12-08
 year: 2021
+nor: https://drive.google.com/file/d/1YjWehqFPKqzV74fFHcioBXVRd1AfRIDs/view?usp=sharing
+rules: https://drive.google.com/file/d/1zUwEFrlfgYwPgOAhgZgTb3N8ocegugD4/view?usp=sharing
+apply: https://drive.google.com/file/d/1zSDFih7m0mvVxTSr7HbQ07pwC5JUQDcX/view?usp=sharing
+attendees: https://drive.google.com/file/d/1Y32GJmO-hzWmaIGSvqZ9AjJua-UGBaqo/view?usp=sharing
+weather: https://drive.google.com/file/d/1XaISXKumxI6DNWkPMPCDZKwX4e58Mehl/view?usp=sharing
+results: https://drive.google.com/file/d/1NzxcYVnLjMqAMdRaLS7X09lUuyZ7KfZj/view?usp=sharing
 boats: 16
 winner_abs: Norika
 winner_cor: Norika
+summary: "16 jadrnic, namesto čez Kvarner tokrat nočna okoli Brionov."
 ---
 
-Ljubitelji morja se bomo srečali na 33. Predbožičnem jadranju - XXXIII. PBJ 2021, da bi tudi v zimskih razmerah spoštovali in občudovali morje ter preskusili svoje jadralno znanje. Na kratko:
-1. Sestanek kapitanov v sredo 8.12.2021 ob 19h v marini Vrsar-pomol E, start jadranja ob 21h.
-2. Kapitani prevzemajo vso odgovornost za svojo posadko in jadrnico in se samostojno odločijo o udeležbi na jadranju.
-3. Program jadranja: v primeru ugodnega vremena jadramo do Premude, ob slabem vremenu pa jadramo ob zahodni obali Istre. V primeru nevarnih razmer se jadranju odpovemo.
-4. Startnina 50 EUR/osebo se v celoti porabi za družabne dogodke in darilo z logom PBJ 2021.
-5. Razglasitev rezultatov in podelitev prehodnih pokalov XXXIII. PBJ 2021 bo v soboto 11.12.2021 v Vrsarju.
+{% image "./logo-pbj-2021.jpg", "PBJ 2021" %}
+
+## Vtisi
+ - [Gregor Čampa: Blog moje Morje – "PBJ – Predbožično jadranje – predbožično pleme…"](http://gregorcampa.blogspot.com/2021/12/pbj-predbozicno-jadranje-predbozicno.html)
+ - [PBJ 2021 - foto - Avtor: Ana Trobec - Elektra](https://photos.app.goo.gl/T7XnsQwguoEWuRtx6)
+
+## Donatorji in sponzorji
+
+[{% image "assets/sponsor/marina-vrsar.jpg", "Marina Vrsar" %}](http://montraker.hr/)
+[{% image "assets/sponsor/pego-plus.jpg", "Pego Plus" %}](http://www.pego.si/)
