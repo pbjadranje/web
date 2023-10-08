@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="sl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }}</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&family=IBM+Plex+Sans:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet">
+    <script type="module" src="/code/main.js"></script>
+    <link rel="stylesheet" href="/styles/main.sass">
+    <meta name="description" content="{{ summary }}">
+    <meta property="og:title" content="{{ title }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:description" content="{{ summary }}" />
+    <meta property="og:site_name" content="PBJ">
+</head>
+
+<body class="font-serif bg-tertiary">
+    <header>
+        <nav role="navigation" class="bg-primary mb-3gap text-white flex items-center min-h-[75px] px-3" aria-label="Main">
+            <a href="/"><img src="/assets/logo-pbj.png" alt="PBJ"></a>
+        </nav>
+    </header>
+
+    <main>
+        {% block content %}
+        {{ content }}
+        {% endblock %}
+    </main>
+
+    <footer class="mt-3gap mx-gap md:mx-3gap font-sans text-muted [&_a]:text-[#212529]">
+        <div class="flex flex-col md:flex-row justify-between mt-2gap md:border-t md:border-dashed">
+            <div class="border-t border-dashed md:border-none pt-gap mb-gap">
+                © 1986-2023 Organizatorji PBJ
+            </div>
+        </div>
+    </footer>
+
+</body>
+
+</html>
