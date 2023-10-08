@@ -27,10 +27,10 @@ layout: base.html
 
     {% endif %}
 
-    {% if nor or rules or apply %}
+    {% if weather or nor or rules or apply %}
         <h2 class="!mb-gap">{% block title %} Razpisni dokumenti {% endblock %}</h2>
 
-        {% if nor %}
+        {% if weather %}
             <li><a href="{{ weather }}">Spremljanje vremenske napovedi</a></li>
         {% endif %}
 
