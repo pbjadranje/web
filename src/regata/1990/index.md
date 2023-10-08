@@ -1,7 +1,7 @@
 ---
 title: III. Predbožično jadranje
-date: 1989-12-20
-year: 1989
+date: 1990-12-19
+year: 1990
 nor: regata90.txt
 boats: 3
 ---
