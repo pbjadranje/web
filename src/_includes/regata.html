@@ -27,7 +27,7 @@ layout: base.html
 
     {% endif %}
 
-    {% if weather or nor or rules or apply %}
+    {% if weather or nor or rules or apply or attendees %}
         <h2 class="!mb-gap">{% block title %} Razpisni dokumenti {% endblock %}</h2>
 
         {% if weather %}
@@ -44,6 +44,10 @@ layout: base.html
 
         {% if apply %}
             <li><a href="{{ apply }}">Prijavnica</a></li>
+        {% endif %}
+
+        {% if attendees %}
+            <li><a href="{{ attendees }}">Barke, ki so izrazile interes za PBJ.</a></li>
         {% endif %}
 
     {% endif %}
