@@ -17,11 +17,28 @@ Sedaj se na Predbožičnem jadranju srečujemo ljubitelji morja, da bi ga občut
 
 ## Predbožična jadranja
 
-| Title | Leto | Jadrnic | Zmagovalec generalno | Zmagovalec korigirano |
-|-------|------|---------|----------------------|-----------------------|
-{% for regata in collections.regata reversed %}
-| <a href="{{ regata.url }}"> {{ regata.data.title }} </a> | {{ regata.data.year }} | {{ regata.data.boats }} | {{ regata.data.winner_abs }} | {{ regata.data.winner_cor }} |
-{% endfor %}
+<table>
+    <thead>
+        <tr>
+            <th>Jadranje</th>
+            <th>Leto</th>
+            <th>Jadrnic</th>
+            <th>Zmagovalec generalno</th>
+            <th>Zmagovalec korigirano</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for regata in collections.regata reversed %}
+            <tr>
+                <td><a href="{{ regata.url }}"> {{ regata.data.title }} </a></td>
+                <td>{{ regata.data.year }}</td>
+                <td>{{ regata.data.boats }}</td>
+                <td>{{ regata.data.winner_abs }}</td>
+                <td>{{ regata.data.winner_cor }}</td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>
 
 ## Začetki jadranja
 

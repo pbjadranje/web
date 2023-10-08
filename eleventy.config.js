@@ -1,6 +1,8 @@
 const path = require("path")
 
 const Image = require("@11ty/eleventy-img")
+const VitePlugin = require("@11ty/eleventy-plugin-vite");
+
 
 async function imageShortcode(src, alt, sizes) {
     // If src is a relative path, resolve it relative to the current page.
@@ -25,9 +27,14 @@ async function imageShortcode(src, alt, sizes) {
 }
 
 module.exports = function(eleventyConfig) {
+    eleventyConfig.addPlugin(VitePlugin, {
+        // Any plugin options can go here
+    });
+
     // Pass-through files
     eleventyConfig.addPassthroughCopy("assets");
     eleventyConfig.addPassthroughCopy("styles");
+    eleventyConfig.addPassthroughCopy("code");
 
     eleventyConfig.addAsyncShortcode("image", imageShortcode)
 
