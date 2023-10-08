@@ -30,19 +30,21 @@ Sedaj se na Predbožičnem jadranju srečujemo ljubitelji morja, da bi ga občut
     </thead>
     <tbody>
         {% for regata in collections.regata reversed %}
-            <tr>
-                <td><a href="{{ regata.url }}"> {{ regata.data.title }} </a></td>
-                <td align="center">{{ regata.data.year }}</td>
-                <td align="center">{{ regata.data.boats }}</td>
-                <td align="center">
-                    {% if regata.data.cancel %}
-                        ODPOVEDANO
-                    {% else %}
-                        {{ regata.data.winner_abs }}
-                    {% endif %}
-                </td>
-                <td align="center">{{ regata.data.winner_cor }}</td>
-            </tr>
+            {% if regata.data.year %}
+                <tr>
+                    <td><a href="{{ regata.url }}"> {{ regata.data.title }} </a></td>
+                    <td align="center">{{ regata.data.year }}</td>
+                    <td align="center">{{ regata.data.boats }}</td>
+                    <td align="center">
+                        {% if regata.data.cancel %}
+                            ODPOVEDANO
+                        {% else %}
+                            {{ regata.data.winner_abs }}
+                        {% endif %}
+                    </td>
+                    <td align="center">{{ regata.data.winner_cor }}</td>
+                </tr>
+            {% endif %}
         {% endfor %}
     </tbody>
 </table>
