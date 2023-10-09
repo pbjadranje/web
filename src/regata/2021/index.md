@@ -18,7 +18,7 @@ summary: "16 jadrnic, namesto čez Kvarner tokrat nočna okoli Brionov."
 
 ## Vtisi
  - [Gregor Čampa: Blog moje Morje – "PBJ – Predbožično jadranje – predbožično pleme…"](http://gregorcampa.blogspot.com/2021/12/pbj-predbozicno-jadranje-predbozicno.html)
- - [PBJ 2021 - foto - Avtor: Ana Trobec](https://photos.app.goo.gl/RZxgAgPgNxWkzQFQ8)
+ - [PBJ 2021 - foto - Avtor: Ana Trobec, Luka Renko](https://photos.app.goo.gl/RZxgAgPgNxWkzQFQ8)
 
 ## Donatorji in sponzorji
 
