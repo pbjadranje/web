@@ -4,8 +4,8 @@
   "description": "Predbožično jadranje (PBJ) spletna stran",
   "main": "index.js",
   "scripts": {
-    "build:css": "postcss styles/styles.css -o styles/output.css",
-    "start": "eleventy --serve  --incremental",
+    "start": "sass --watch styles/main.sass:dist/styles/main.css & eleventy --serve  --incremental",
+    "build": "sass styles/main.sass:dist/styles/main.css && eleventy",
     "deploy": "gh-pages -d dist",
     "clean": "rm -rf dist",
     "test": "echo \"Error: no test specified\" && exit 1"

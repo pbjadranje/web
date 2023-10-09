@@ -33,7 +33,6 @@ module.exports = function(eleventyConfig) {
 
     // Pass-through files
     eleventyConfig.addPassthroughCopy("assets");
-    eleventyConfig.addPassthroughCopy("styles");
     eleventyConfig.addPassthroughCopy("code");
 
     eleventyConfig.addAsyncShortcode("image", imageShortcode)
