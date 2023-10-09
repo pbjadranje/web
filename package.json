@@ -6,6 +6,7 @@
   "scripts": {
     "build:css": "postcss styles/styles.css -o styles/output.css",
     "start": "eleventy --serve  --incremental",
+    "deploy": "gh-pages -d dist",
     "clean": "rm -rf dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,6 +23,7 @@
     "@11ty/eleventy-plugin-vite": "^4.0.0",
     "alpinejs": "^3.13.1",
     "autoprefixer": "^10.4.16",
+    "gh-pages": "^6.0.0",
     "postcss": "^8.4.31",
     "postcss-cli": "^10.1.0",
     "sass": "^1.69.0",
