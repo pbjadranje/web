@@ -5,7 +5,24 @@ layout: base.html
 
 <h1 class="!mb-gap">{% block title %}{{ title }}{% endblock %}</h1>
 
-Zimsko jadranje po Jadranu!? Leta 1986 se nam je zdelo, da bi ta izziv morali preizkusiti. Z jadrnico Elektra je tričlanska posadka odplula v sredo zvečer proti Susku. Ob jutranji zarji smo z burinom obšli Kamenjak in se zgodaj popoldne privezali v mandraču na otoku Susak.
+{% for regata in collections.regata reversed %}
+    {% if regata.data.active %}
+        <h2 class="!mb-gap">{% block title %}Aktualno: {{ regata.data.title }} {{ regata.data.year }} {% endblock %}</h2>
+
+        {% block lead %}{% endblock %}
+        <div class="lead">
+            {{ regata.data.summary }}
+
+            Več informacij je na voljo <a href="{{ regata.url }}">tukaj</a>.
+        </div>
+        {% break %}
+    {% endif %}
+{% endfor %}
+
+
+<h2 class="!mb-gap">{% block title %}Zimsko jadranje po Jadranu!?{% endblock %}</h2>
+
+Leta 1986 se nam je zdelo, da bi ta izziv morali preizkusiti. Z jadrnico Elektra je tričlanska posadka odplula v sredo zvečer proti Susku. Ob jutranji zarji smo z burinom obšli Kamenjak in se zgodaj popoldne privezali v mandraču na otoku Susak.
 
 V naslednjih letih smo ob koncu novembra spoznali somišljenike in se skupaj podajali v nepredvidljivo avanturo. Potem se nam je zdelo, da je jadranje v drugem tednu decembra že kar tradicionalno. Ob ugodnih vetrovih smo včasih od Červarja do Suska potrebovali manj kot 10 ur, včasih pa trikrat več. Dostikrat nas je prijetno grelo zimsko sonce, nekajkrat pa je bilo treba menjavati jadra na poledeneli palubi. V času med vojno smo ravno jadrali mimo Vrsarja, ko sta dva lovca bombardirala letališče...
 
@@ -35,7 +52,9 @@ Sedaj se na Predbožičnem jadranju srečujemo ljubitelji morja, da bi ga občut
                 <td align="center">{{ regata.data.year }}</td>
                 <td align="center">{{ regata.data.boats }}</td>
                 <td align="center">
-                    {% if regata.data.cancelled %}
+                    {% if regata.data.active %}
+                        MOŽNA PRIJAVA
+                    {% elsif regata.data.cancelled %}
                         ODPOVEDANO
                     {% else %}
                         {{ regata.data.winner_abs }}
