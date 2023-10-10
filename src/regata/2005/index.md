@@ -25,5 +25,5 @@ Naslednji dan nas je že na startu v Cresu pričaka močna burja, spinakerji so 
 [{% image "assets/sponsor/marina-vrsar.jpg", "Marina Vrsar" %}](http://montraker.hr/)
 [{% image "assets/sponsor/marina-crvar.jpg", "Marina Črvar" %}]()
 [{% image "assets/sponsor/socomec-sicon.gif", "socomec sicon UPS" %}]()
-[{% image "assets/sponsor/kd.gif", "KD Group" %}](http://www.kd-group.com)
+[{% image "assets/sponsor/kd.gif", "KD Group" %}]()
 [{% image "assets/sponsor/triton-basler.jpg", "Triton" %}]()

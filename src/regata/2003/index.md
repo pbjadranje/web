@@ -27,7 +27,7 @@ Na koncu smo vsi uspešno zaključili naše zimsko jadranje!
 [{% image "assets/sponsor/marina-vrsar-adriasail.jpg", "Marina Vrsar" %}]()
 [{% image "assets/sponsor/socomec-sicon.gif", "socomec sicon UPS" %}]()
 [{% image "assets/sponsor/atlantis.jpg", "Atlantis" %}]()
-[{% image "assets/sponsor/kd.gif", "KD Group" %}](http://www.kd-group.com)
+[{% image "assets/sponsor/kd.gif", "KD Group" %}]()
 [{% image "assets/sponsor/zav-maribor.jpg", "Zavarovalnica Maribor" %}]()
 [{% image "assets/sponsor/gradacta.jpg", "Grad Acta" %}]()
 [{% image "assets/sponsor/gjerkes.jpg", "Vina Gjerkeš" %}]()

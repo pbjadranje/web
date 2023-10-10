@@ -28,4 +28,4 @@ Nočno etapo smo "prespali" kar v marini Vrsar, saj je bilo preveč burje za var
 
 [{% image "assets/sponsor/marina-vrsar.jpg", "Marina Vrsar" %}](http://montraker.hr/)
 [{% image "assets/sponsor/socomec-sicon.gif", "socomec sicon UPS" %}]()
-[{% image "assets/sponsor/kd.gif", "KD Group" %}](http://www.kd-group.com)
+[{% image "assets/sponsor/kd.gif", "KD Group" %}]()

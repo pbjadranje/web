@@ -26,5 +26,5 @@ Zjutraj nas je presenetil močan naliv in nevihtni veter, ki pa se je kmalu umir
 [{% image "assets/sponsor/marina-vrsar-adriasail.jpg", "Marina Vrsar" %}]()
 [{% image "assets/sponsor/trost.jpg", "Restaurant Trošt" %}]()
 [{% image "assets/sponsor/socomec-sicon.gif", "socomec sicon UPS" %}]()
-[{% image "assets/sponsor/kd.gif", "KD Group" %}](http://www.kd-group.com)
+[{% image "assets/sponsor/kd.gif", "KD Group" %}]()
 [{% image "assets/sponsor/sprinter.jpg", "Šprinter" %}]()
