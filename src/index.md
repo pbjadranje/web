@@ -35,7 +35,7 @@ Sedaj se na Predbožičnem jadranju srečujemo ljubitelji morja, da bi ga občut
                 <td align="center">{{ regata.data.year }}</td>
                 <td align="center">{{ regata.data.boats }}</td>
                 <td align="center">
-                    {% if regata.data.cancel %}
+                    {% if regata.data.cancelled %}
                         ODPOVEDANO
                     {% else %}
                         {{ regata.data.winner_abs }}
