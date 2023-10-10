@@ -17,3 +17,6 @@ Letos smo prvič tekmovali s tremi jadrnicami Electra, Kirna in Bianca za nagrad
 {% image "./boz1_reg90.jpg", "Na trapezu, Kvarner 1990" %}
 {% image "./boz2_reg90.jpg", "Posadka Biance, 1990" %}
 {% image "./boz3_reg90.jpg", "V luki, Susak 1990" %}
+
+## Vtisi
+ - [PBJ 1990 - foto](https://photos.app.goo.gl/CMdYw6Czz4CTLrk18)

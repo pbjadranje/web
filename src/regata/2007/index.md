@@ -21,7 +21,8 @@ Nočno etapo smo "prespali" kar v marini Vrsar, saj je bilo preveč burje za var
 
 Četrta in peta etapa iz Rovinja mimo Vrsarja v Poreč in iz Poreča do Vrsarja sta določili končni vrstni red. Večerja pri Troštu v marini Vrsar in razglasitev rezultatov sta potekali v bolj umirjenem vzdušju kot običajno, saj smo zgleda večino svojih žurerskih zalog energije pustili na prejšnjih postajah.
 
-Fotografij žal ni.
+## Vtisi
+ - [PBJ 2007 - foto](https://photos.app.goo.gl/F3hvhqTc4uiRG8nv9)
 
 ## Donatorji in sponzorji
 
