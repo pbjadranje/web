@@ -25,8 +25,8 @@ Predhodno najavo udeležbe in dodatna vprašanja lahko posredujete na naslov [pb
 ### Pripravljalni odbor
 - Luka Renko
 - Roman Trobec
-- Bine Trobec
-- Gregor Čampa
 - Igor Perc
+- Gregor Čampa
+- Albin Trobec
 - Vlado Kranjc
 - Matjaž France
