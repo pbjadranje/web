@@ -1,2 +1,2 @@
 # web
-Predbožično jadranje (PBJ) spletna stran 
+Predbožično jadranje (PBJ) spletna stran: https://pbj.pojalabanda.com
