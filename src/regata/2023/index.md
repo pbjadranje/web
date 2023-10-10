@@ -19,10 +19,10 @@ Na kratko:
 4. Startnina (bo določena kasneje) se v celoti porabi za družabne dogodke in darila za udeležence.
 5. Razglasitev rezultatov in podelitev prehodnih pokalov XXXV. PBJ 2023 bo v **soboto 9. 12. 2023 v Vrsarju**.
 
-## Predhodna najava in dodatne informacije
+### Predhodna najava in dodatne informacije
 Predhodno najavo udeležbe in dodatna vprašanja lahko posredujete na naslov [pb.jadranje@gmail.com](mailto:pb.jadranje@gmail.com)
 
-## Pripravljalni odbor
+### Pripravljalni odbor
 - Luka Renko
 - Roman Trobec
 - Bine Trobec
