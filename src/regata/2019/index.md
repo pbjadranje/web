@@ -18,6 +18,7 @@ summary: "16 jadrnic, hitra nočna na Susak."
 
 ## Vtisi
  - [PBJ 2019 - foto - avtor: Luka Renko](https://photos.app.goo.gl/vGBm4RaFNuZUnuKk8)
+ - [PBJ 2019 - zapis na forumu Pojalabanda.com - avtor: Luka Renko](https://pojalabanda.com/t/predbozicno-jadranje/64/6)
 
 ## Donatorji in sponzorji
 
