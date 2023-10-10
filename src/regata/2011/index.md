@@ -16,7 +16,7 @@ summary: "11 jadrnic"
 {% image "./logo-pbj-2011.jpg", "PBJ 2011" %}
 
 ## Vtisi
- - [PBJ 2011 - foto - Avtor: Janez Prešern, Lojze Vrenčur](https://photos.app.goo.gl/BNN9pJL8KnEZ89ZC8)
+ - [PBJ 2011 - foto - avtor: Janez Prešern, Lojze Vrenčur](https://photos.app.goo.gl/BNN9pJL8KnEZ89ZC8)
 
 ## Donatorji in sponzorji
 

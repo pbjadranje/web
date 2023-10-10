@@ -16,7 +16,7 @@ summary: "13 jadrnic na jubiljenem 30. predbožičnem jadranju"
 {% image "./logo-pbj-2017.jpg", "PBJ 2017" %}
 
 ## Vtisi
- - [PBJ 2017 - foto - Avtor: Primož/Lunga, Bogdan/Lara](https://photos.app.goo.gl/iRV5Yy9aYMnQbCqn6)
+ - [PBJ 2017 - foto - avtor: Primož/Lunga, Bogdan/Lara](https://photos.app.goo.gl/iRV5Yy9aYMnQbCqn6)
 
 ## Donatorji in sponzorji
 

@@ -17,8 +17,8 @@ summary: "14 jadrnic, Vrsar - Ilovik - Pula - Vrsar"
 {% image "./logo-pbj-2018.jpg", "PBJ 2018" %}
 
 ## Vtisi
- - [PBJ 2018 - video utrinki iz Jagode - Avtor: Jaka Grčar](https://www.youtube.com/watch?v=mdkiuw1HpkU)
- - [PBJ 2018 - foto - Avtor: Ana Trobec, Luka Renko](https://photos.app.goo.gl/6MfBvysP2VTrS3kG8)
+ - [PBJ 2018 - video utrinki iz Jagode - avtor: Jaka Grčar](https://www.youtube.com/watch?v=mdkiuw1HpkU)
+ - [PBJ 2018 - foto - avtor: Ana Trobec, Luka Renko](https://photos.app.goo.gl/6MfBvysP2VTrS3kG8)
 
 ## Donatorji in sponzorji
 

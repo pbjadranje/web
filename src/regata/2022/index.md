@@ -18,8 +18,8 @@ summary: "Dve etapi: nočna okoli Brionov in dnevna do Rovinja in nazaj."
 
 ## Vtisi
  - [Gregor Čampa: Blog moje Morje – "Ko se vrneš domov, dragi v objem in je v hipu mokra…"](https://gregorcampa.blogspot.com/2022/12/ko-se-vrnes-domov-dragi-v-objem-in-je-v.html)
- - [PBJ 2022 - video - Avtor: Jernej Štemberger - Norika](https://youtu.be/tmR6mgI-_so)
- - [PBJ 2022 - foto - Avtor: Gregor Čampa, Roman Trobec, Luka Renko](https://photos.app.goo.gl/ZXcMpMdToegvxDdG7)
+ - [PBJ 2022 - video - avtor: Jernej Štemberger - Norika](https://youtu.be/tmR6mgI-_so)
+ - [PBJ 2022 - foto - avtor: Gregor Čampa, Roman Trobec, Luka Renko](https://photos.app.goo.gl/ZXcMpMdToegvxDdG7)
 
 ## Donatorji in sponzorji
 

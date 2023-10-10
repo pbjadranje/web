@@ -16,7 +16,7 @@ summary: "15 jadrnic"
 {% image "./logo-pbj-2015.jpg", "PBJ 2015" %}
 
 ## Vtisi
- - [PBJ 2015 - foto - Avtor: ZareB/Veternica, GmHumar/2Krigla](https://photos.app.goo.gl/NSVqoGQNX6rf8gBEA)
+ - [PBJ 2015 - foto - avtor: ZareB/Veternica, GmHumar/2Krigla](https://photos.app.goo.gl/NSVqoGQNX6rf8gBEA)
 
 ## Donatorji in sponzorji
 

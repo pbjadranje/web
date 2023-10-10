@@ -17,7 +17,7 @@ summary: "16 jadrnic"
 
 ## Vtisi
  - [Lojze Vrenčur: blog Svet pod lahkimi nogami - PBJ 2016](http://ab.vrencur.info/2016/12/xxix-predbozicno-jadranje.html)
- - [PBJ 2016 - foto - Avtor: Ana Trobec, Gorazd Mehle, Petra Žvanut](https://photos.app.goo.gl/gQ852fhGy52Xty4T6)
+ - [PBJ 2016 - foto - avtor: Ana Trobec, Gorazd Mehle, Petra Žvanut](https://photos.app.goo.gl/gQ852fhGy52Xty4T6)
 
 ## Donatorji in sponzorji
 
