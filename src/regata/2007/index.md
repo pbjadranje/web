@@ -15,7 +15,13 @@ summary: "11 jadrnic, Vrsar - Veruda - Fažana - Rovinj - Poreč"
 
 {% image "./logo-pbj-2007.jpg", "PBJ 2007" %}
 
-Vremenske napovedi so letos obetale močno burjo in sončno vreme, kar se je v večini uresničilo. Na startu se je zbralo 11 jadrnic, dolgih od 7 do 14 metrov. Skiperji so se odločili za drugo varianto - jadranje ob zahodni obali Istre. Nočno etapo smo "prespali" kar v marini Vrsar, saj je bilo preveč burje za varno plovbo. Zgodaj zjutraj smo s prvo etapo od Vrsarja do Verude pričeli s tekmovalnim delom. Vetra je bilo tudi 30 vozlov in več. 2. in 3. etapo smo vozili od Verude do Fažane in naprej do Rovinja. Doživeli smo nepozabne barve zimskega sončnega zahoda. Četrta in peta etapa iz Rovinja mimo Vrsarja v Poreč in iz Poreča do Vrsarja sta določili končni vrstni red. Večerja pri Troštu v marini Vrsar in razglasitev rezultatov sta potekali v bolj umirjenem vzdušju kot običajno, saj smo zgleda večino svojih žurerskih zalog energije pustili na prejšnjih postajah.
+Vremenske napovedi so letos obetale močno burjo in sončno vreme, kar se je v večini uresničilo. Na startu se je zbralo 11 jadrnic, dolgih od 7 do 14 metrov. Skiperji so se odločili za drugo varianto - jadranje ob zahodni obali Istre.
+
+Nočno etapo smo "prespali" kar v marini Vrsar, saj je bilo preveč burje za varno plovbo. Zgodaj zjutraj smo s prvo etapo od Vrsarja do Verude pričeli s tekmovalnim delom. Vetra je bilo tudi 30 vozlov in več. 2. in 3. etapo smo vozili od Verude do Fažane in naprej do Rovinja. Doživeli smo nepozabne barve zimskega sončnega zahoda.
+
+Četrta in peta etapa iz Rovinja mimo Vrsarja v Poreč in iz Poreča do Vrsarja sta določili končni vrstni red. Večerja pri Troštu v marini Vrsar in razglasitev rezultatov sta potekali v bolj umirjenem vzdušju kot običajno, saj smo zgleda večino svojih žurerskih zalog energije pustili na prejšnjih postajah.
+
+Fotografij žal ni.
 
 ## Donatorji in sponzorji
 
