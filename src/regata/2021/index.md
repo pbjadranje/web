@@ -2,6 +2,7 @@
 title: XXXIII. Predbožično jadranje
 date: 2021-12-08
 year: 2021
+logo: /assets/logo/logo-pbj-2021.jpg
 nor: https://drive.google.com/file/d/1YjWehqFPKqzV74fFHcioBXVRd1AfRIDs/view?usp=sharing
 rules: https://drive.google.com/file/d/1zUwEFrlfgYwPgOAhgZgTb3N8ocegugD4/view?usp=sharing
 apply: https://drive.google.com/file/d/1zSDFih7m0mvVxTSr7HbQ07pwC5JUQDcX/view?usp=sharing
@@ -13,8 +14,6 @@ winner_abs: Norika
 winner_cor: Norika
 summary: "16 jadrnic, namesto čez Kvarner tokrat nočna okoli Brionov."
 ---
-
-{% image "./logo-pbj-2021.jpg", "PBJ 2021" %}
 
 ## Vtisi
  - [Gregor Čampa: Blog moje Morje – "PBJ – Predbožično jadranje – predbožično pleme…"](http://gregorcampa.blogspot.com/2021/12/pbj-predbozicno-jadranje-predbozicno.html)

@@ -2,6 +2,7 @@
 title: XX. Predbožično jadranje
 date: 2007-12-12
 year: 2007
+logo: /assets/logo/logo-pbj-2007.jpg
 nor: https://drive.google.com/file/d/1i17iO2bomci2ik0Cy9tjRHLQFombScIE/view?usp=sharing
 apply: https://drive.google.com/file/d/1T7S3pCUnePp8zbO_8pd_92xFkC5HBmdZ/view?usp=sharing
 attendees: https://drive.google.com/file/d/1EvW0401DuIuPtHMWZNZ9lJLyr_AtYQW5/view?usp=sharing
@@ -12,8 +13,6 @@ winner_abs: Express Izudin
 winner_cor: Express Izudin
 summary: "11 jadrnic, Vrsar - Veruda - Fažana - Rovinj - Poreč"
 ---
-
-{% image "./logo-pbj-2007.jpg", "PBJ 2007" %}
 
 Vremenske napovedi so letos obetale močno burjo in sončno vreme, kar se je v večini uresničilo. Na startu se je zbralo 11 jadrnic, dolgih od 7 do 14 metrov. Skiperji so se odločili za drugo varianto - jadranje ob zahodni obali Istre.
 

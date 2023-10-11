@@ -2,6 +2,7 @@
 title: XXIX. Predbožično jadranje
 date: 2016-12-07
 year: 2016
+logo: /assets/logo/logo-pbj-2016.jpg
 nor: https://drive.google.com/file/d/1JwOIEKGyclIjPnyN8I9gtnNw9FUYz-6s/view?usp=sharing
 apply: https://drive.google.com/file/d/1CqC6vCnaBlYysACOuF0dY2zoqyqy77F_/view?usp=sharing
 attendees: https://drive.google.com/file/d/1SLzlzNflHCgWIlEvJ9FbQmoSkP66qfG3/view?usp=sharing
@@ -12,8 +13,6 @@ winner_abs: Express Izudin
 winner_cor: Fado
 summary: "16 jadrnic"
 ---
-
-{% image "./logo-pbj-2016.jpg", "PBJ 2016" %}
 
 ## Vtisi
  - [Lojze Vrenčur: blog Svet pod lahkimi nogami - PBJ 2016](http://ab.vrencur.info/2016/12/xxix-predbozicno-jadranje.html)

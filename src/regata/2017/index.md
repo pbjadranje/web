@@ -2,6 +2,7 @@
 title: XXX. Predbožično jadranje
 date: 2017-12-06
 year: 2017
+logo: /assets/logo/logo-pbj-2017.jpg
 nor: https://drive.google.com/file/d/1wDIza92OF058X2O4cYiEx4x6zeIcgYhS/view?usp=sharing
 apply: https://drive.google.com/file/d/1K7pZO-s6uVywA1-al0z_KREmGZcjnpLz/view?usp=sharing
 attendees: https://drive.google.com/file/d/1lhM9UijWn3mVazRIdQex54tVWdeC8_ZM/view?usp=sharing
@@ -12,8 +13,6 @@ winner_abs: Fado
 winner_cor: Sara
 summary: "13 jadrnic na jubiljenem 30. predbožičnem jadranju"
 ---
-
-{% image "./logo-pbj-2017.jpg", "PBJ 2017" %}
 
 ## Vtisi
  - [PBJ 2017 - foto - avtor: Primož/Lunga, Bogdan/Lara](https://photos.app.goo.gl/iRV5Yy9aYMnQbCqn6)

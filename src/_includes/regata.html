@@ -52,6 +52,10 @@ layout: base.html
 
     {% endif %}
 
+    {% if logo %}
+        <img src="{{ logo }}" alt="{{ title }}" width="300">
+    {% endif %}
+
     {{ content }}
 </div>
 {% endblock %}

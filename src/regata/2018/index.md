@@ -2,6 +2,7 @@
 title: XXXI. Predbožično jadranje
 date: 2018-12-05
 year: 2018
+logo: /assets/logo/logo-pbj-2018.jpg
 nor: https://drive.google.com/file/d/1E_DcnEmUdRnve9gBeI5nCm3oK-8IelYS/view?usp=sharing
 rules: https://drive.google.com/file/d/1hv0D-huarF6bVZn7boOqebLtNS576vnf/view?usp=sharing
 apply: https://drive.google.com/file/d/1HLzgxHAbgxGQB9MYb-0QNM5i1I5Zt9s8/view?usp=sharing
@@ -13,8 +14,6 @@ winner_abs: Layla
 winner_cor: 2Krigla
 summary: "14 jadrnic, Vrsar - Ilovik - Pula - Vrsar"
 ---
-
-{% image "./logo-pbj-2018.jpg", "PBJ 2018" %}
 
 ## Vtisi
  - [PBJ 2018 - video utrinki iz Jagode - avtor: Jaka Grčar](https://www.youtube.com/watch?v=mdkiuw1HpkU)

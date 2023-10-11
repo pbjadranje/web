@@ -2,6 +2,7 @@
 title: XXVIII. Predbožično jadranje
 date: 2015-12-02
 year: 2015
+logo: /assets/logo/logo-pbj-2015.jpg
 nor: https://drive.google.com/file/d/1wbDeNH5rWukwipqH_RzxB1EzAb4MWBH2/view?usp=sharing
 apply: https://drive.google.com/file/d/1g24GsplxkvciFv2U8dy5soQb1kA0PzKA/view?usp=sharing
 attendees: https://drive.google.com/file/d/1stAExfR7AAETjD7YpTuWmKiNactckTIZ/view?usp=sharing
@@ -12,8 +13,6 @@ winner_abs: Express Izudin
 winner_cor: Express Izudin
 summary: "15 jadrnic"
 ---
-
-{% image "./logo-pbj-2015.jpg", "PBJ 2015" %}
 
 ## Vtisi
  - [PBJ 2015 - foto - avtor: ZareB/Veternica, GmHumar/2Krigla](https://photos.app.goo.gl/NSVqoGQNX6rf8gBEA)
