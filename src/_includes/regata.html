@@ -20,7 +20,7 @@ layout: base.html
 
                 {% if results or winner_abs or winner_cor %}
                     <h2 class="!mb-gap">{% block title %} Rezultati {% endblock %}</h2>
-
+                    <ul>
                     {% if winner_abs %}
                         <li>Zmagovalec - absolutno: <b>{{ winner_abs }}</b></li>
                     {% endif %}
@@ -32,11 +32,12 @@ layout: base.html
                     {% if results %}
                         <li><a href="{{ results }}">Rezultati</a></li>
                     {% endif %}
+                    </ul>
                 {% endif %}
 
                 {% if nor or rules or apply or attendees or weather %}
                     <h2 class="!mb-gap">{% block title %} Razpisni dokumenti {% endblock %}</h2>
-
+                    <ul>
                     {% if nor %}
                         <li><a href="{{ nor }}">Program</a></li>
                     {% endif %}
@@ -56,6 +57,7 @@ layout: base.html
                     {% if weather %}
                         <li><a href="{{ weather }}">Spremljanje vremenske napovedi</a></li>
                     {% endif %}
+                    </ul>
                 {% endif %}
 
     {% if logo and nor %}
