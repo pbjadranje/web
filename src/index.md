@@ -35,23 +35,23 @@ Sedaj se na Predbožičnem jadranju srečujemo ljubitelji morja, da bi ga občut
 
 <h2 class="!mb-gap">{% block title %}Predbožična jadranja{% endblock %}</h2>
 
-<table>
+<table class="min-w-full border-collapse">
     <thead>
         <tr>
-            <th align="left">Jadranje</th>
-            <th align="center">Leto</th>
-            <th align="center">Jadrnic</th>
-            <th align="center">Zmagovalec generalno</th>
-            <th align="center">Zmagovalec korigirano</th>
+            <th class="text-left w-1/3">Jadranje</th>
+            <th class="text-center">Leto</th>
+            <th class="text-center">Jadrnic</th>
+            <th class="text-center">Zmagovalec: generalno</th>
+            <th class="text-center">Zmagovalec: korigirano</th>
         </tr>
     </thead>
     <tbody>
         {% for regata in collections.regata reversed %}
             <tr>
-                <td><a href="{{ regata.url }}"> {{ regata.data.title }} </a></td>
-                <td align="center">{{ regata.data.year }}</td>
-                <td align="center">{{ regata.data.boats }}</td>
-                <td align="center">
+                <td class="text-left"><a href="{{ regata.url }}"> {{ regata.data.title }} </a></td>
+                <td class="text-center">{{ regata.data.year }}</td>
+                <td class="text-center">{{ regata.data.boats }}</td>
+                <td class="text-center">
                     {% if regata.data.active %}
                         MOŽNA PRIJAVA
                     {% elsif regata.data.cancelled %}
@@ -60,7 +60,7 @@ Sedaj se na Predbožičnem jadranju srečujemo ljubitelji morja, da bi ga občut
                         {{ regata.data.winner_abs }}
                     {% endif %}
                 </td>
-                <td align="center">{{ regata.data.winner_cor }}</td>
+                <td class="text-center">{{ regata.data.winner_cor }}</td>
             </tr>
         {% endfor %}
     </tbody>
