@@ -12,11 +12,9 @@ boats: 12
 winner_abs: Express Izudin
 winner_cor: Express Izudin
 summary: "12 jadrnic"
+sponsors:
+    - marina-vrsar
+    - socomec-ups
 ---
 
 Fotografij žal ni.
-
-## Donatorji in sponzorji
-
-[{% image "assets/sponsor/marina-vrsar.jpg", "Marina Vrsar" %}](http://montraker.hr/)
-[{% image "assets/sponsor/socomec-ups.jpg", "socomec UPS" %}]()

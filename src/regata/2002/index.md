@@ -8,15 +8,12 @@ boats: 14
 winner_abs: Porta Nova
 winner_cor: Porta Nova
 summary: "Tudi letos smo zaradi močne burje jadrali ob zahodni obali Istre. Po rahlem dežju v četrtek, smo imeli sončno in toplo vreme z vetrom od 0-40 vozlov."
+sponsors:
+    - marina-vrsar-adriasail
+    - socomec-sicon
+    - atlantis
+    - gradacta
 ---
 
 ## Vtisi
  - [PBJ 2002 - foto](https://photos.app.goo.gl/ZBa9QptRZemJjUG8A)
-
-
-## Donatorji in sponzorji
-
-[{% image "assets/sponsor/marina-vrsar-adriasail.jpg", "Marina Vrsar" %}]()
-[{% image "assets/sponsor/socomec-sicon.gif", "socomec sicon UPS" %}]()
-[{% image "assets/sponsor/atlantis.jpg", "Atlantis" %}]()
-[{% image "assets/sponsor/gradacta.jpg", "Grad Acta" %}]()

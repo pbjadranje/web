@@ -64,5 +64,25 @@ layout: base.html
     {% endif %}
 
     {{ content }}
+
+    {% if sponsors %}
+        <h2 class="!mb-gap">{% block title %} Donatorji in sponzorji {% endblock %}</h2>
+
+        <div class="container mx-auto">
+            <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4">
+                {% for sponsor in sponsors %}
+                    {% assign sp = sponsorsMap[sponsor] %}
+                    {% if sp %}
+                        <div class="flex justify-center items-center">
+                            <img src="/assets/sponsor/{{ sponsor }}.{{ sp.ext}}" alt="{{ sp.name }}" class="max-w-full max-h-24">
+                        </div>
+                    {% else %}
+                        Sponsor not found: {{ sponsor }}
+                    {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+    {% endif %}
+
 </div>
 {% endblock %}

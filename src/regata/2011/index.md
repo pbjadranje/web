@@ -12,13 +12,11 @@ boats: 11
 winner_abs: Express Izudin
 winner_cor: Express Izudin
 summary: "11 jadrnic"
+sponsors:
+    - marina-vrsar
+    - antik-rogaska
+    - slip-underwatercoat
 ---
 
 ## Vtisi
  - [PBJ 2011 - foto - avtor: Janez Prešern, Lojze Vrenčur](https://photos.app.goo.gl/BNN9pJL8KnEZ89ZC8)
-
-## Donatorji in sponzorji
-
-[{% image "assets/sponsor/marina-vrsar.jpg", "Marina Vrsar" %}](http://montraker.hr/)
-[{% image "assets/sponsor/antik-rogaska.jpg", "Antik Rogaška" %}](http://www.tikovina.si/)
-[{% image "assets/sponsor/slip-underwatercoat.jpg", "Slip UnderWaterCoat" %}](http://www.slipboat.si/)

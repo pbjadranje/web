@@ -12,12 +12,10 @@ boats: 16
 winner_abs: Express Izudin
 winner_cor: Fado
 summary: "16 jadrnic"
+sponsors:
+    - marina-vrsar
 ---
 
 ## Vtisi
  - [Lojze Vrenčur: blog Svet pod lahkimi nogami - PBJ 2016](http://ab.vrencur.info/2016/12/xxix-predbozicno-jadranje.html)
  - [PBJ 2016 - foto - avtor: Ana Trobec, Gorazd Mehle, Petra Žvanut](https://photos.app.goo.gl/gQ852fhGy52Xty4T6)
-
-## Donatorji in sponzorji
-
-[{% image "assets/sponsor/marina-vrsar.jpg", "Marina Vrsar" %}](http://montraker.hr/)

@@ -12,13 +12,11 @@ boats: 9
 winner_abs: Electra
 winner_cor: Electra
 summary: "9 jadrnic"
+sponsors:
+    - marina-vrsar
 ---
 
 ## Vtisi
  - [Lojze Vrenčur: blog Svet pod lahkimi nogami - PBJ 2013](http://ab.vrencur.info/2013/12/xxvi-predbozicno-jadranje.html)
  - [PBJ 2013 - video - Jutranja megla v zalivu Raše, posneta iz Tanjuške](http://www.youtube.com/watch?v=w_fHfpPWJJk)
  - [PBJ 2013 - foto - avtor: Tajan Trobec](https://photos.app.goo.gl/PwyKSyS7VFdVT9uTA)
-
-## Donatorji in sponzorji
-
-[{% image "assets/sponsor/marina-vrsar.jpg", "Marina Vrsar" %}](http://montraker.hr/)

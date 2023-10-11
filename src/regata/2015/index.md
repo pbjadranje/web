@@ -12,11 +12,9 @@ boats: 15
 winner_abs: Express Izudin
 winner_cor: Express Izudin
 summary: "15 jadrnic"
+sponsors:
+    - marina-vrsar
 ---
 
 ## Vtisi
  - [PBJ 2015 - foto - avtor: ZareB/Veternica, GmHumar/2Krigla](https://photos.app.goo.gl/NSVqoGQNX6rf8gBEA)
-
-## Donatorji in sponzorji
-
-[{% image "assets/sponsor/marina-vrsar.jpg", "Marina Vrsar" %}](http://montraker.hr/)

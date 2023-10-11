@@ -12,13 +12,11 @@ boats: 13
 winner_abs: Fado
 winner_cor: Sara
 summary: "13 jadrnic na jubiljenem 30. predbožičnem jadranju"
+sponsors:
+    - marina-vrsar
+    - supreme-sails
+    - pego-plus
 ---
 
 ## Vtisi
  - [PBJ 2017 - foto - avtor: Primož/Lunga, Bogdan/Lara](https://photos.app.goo.gl/iRV5Yy9aYMnQbCqn6)
-
-## Donatorji in sponzorji
-
-[{% image "assets/sponsor/marina-vrsar.jpg", "Marina Vrsar" %}](http://montraker.hr/)
-[{% image "assets/sponsor/supreme-sails.jpg", "Supreme Sails" %}](http://www.supreme.si/)
-[{% image "assets/sponsor/pego-plus.jpg", "Pego Plus" %}](http://www.pego.si/)

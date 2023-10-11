@@ -12,6 +12,9 @@ boats: 11
 winner_abs: Express Izudin
 winner_cor: Raca
 summary: "11 jadrnic"
+sponsors:
+    - marina-vrsar
+    - socomec-ups
 ---
 
 ## Vtisi
@@ -21,8 +24,3 @@ summary: "11 jadrnic"
  - [PBJ 2010 - video - Susak - Premuda iz ExpressIzudina](http://www.youtube.com/watch?v=k2CFMk_ukrk)
  - [PBJ 2010 - video - Premuda iz ExpressIzudina](http://www.youtube.com/watch?v=5PxpuiDfSAM)
  - [PBJ 2010 - video - Premuda - Veruda iz ExpressIzudina](http://www.youtube.com/watch?v=1hDYCiamXZw)
-
-## Donatorji in sponzorji
-
-[{% image "assets/sponsor/marina-vrsar.jpg", "Marina Vrsar" %}](http://montraker.hr/)
-[{% image "assets/sponsor/socomec-ups.jpg", "socomec UPS" %}]()

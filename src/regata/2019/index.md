@@ -13,13 +13,11 @@ boats: 16
 winner_abs: Layla
 winner_cor: Fado
 summary: "16 jadrnic, hitra nočna na Susak."
+sponsors:
+    - marina-vrsar
+    - pego-plus
 ---
 
 ## Vtisi
  - [PBJ 2019 - foto - avtor: Luka Renko](https://photos.app.goo.gl/vGBm4RaFNuZUnuKk8)
  - [PBJ 2019 - zapis na forumu Pojalabanda.com - avtor: Luka Renko](https://pojalabanda.com/t/predbozicno-jadranje/64/6)
-
-## Donatorji in sponzorji
-
-[{% image "assets/sponsor/marina-vrsar.jpg", "Marina Vrsar" %}](http://montraker.hr/)
-[{% image "assets/sponsor/pego-plus.jpg", "Pego Plus" %}](http://www.pego.si/)

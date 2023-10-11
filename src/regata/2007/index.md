@@ -12,6 +12,10 @@ boats: 11
 winner_abs: Express Izudin
 winner_cor: Express Izudin
 summary: "11 jadrnic, Vrsar - Veruda - Fažana - Rovinj - Poreč"
+sponsors:
+    - marina-vrsar
+    - socomec-sicon
+    - kd
 ---
 
 Vremenske napovedi so letos obetale močno burjo in sončno vreme, kar se je v večini uresničilo. Na startu se je zbralo 11 jadrnic, dolgih od 7 do 14 metrov. Skiperji so se odločili za drugo varianto - jadranje ob zahodni obali Istre.
@@ -22,9 +26,3 @@ Nočno etapo smo "prespali" kar v marini Vrsar, saj je bilo preveč burje za var
 
 ## Vtisi
  - [PBJ 2007 - foto](https://photos.app.goo.gl/F3hvhqTc4uiRG8nv9)
-
-## Donatorji in sponzorji
-
-[{% image "assets/sponsor/marina-vrsar.jpg", "Marina Vrsar" %}](http://montraker.hr/)
-[{% image "assets/sponsor/socomec-sicon.gif", "socomec sicon UPS" %}]()
-[{% image "assets/sponsor/kd.gif", "KD Group" %}]()

@@ -9,6 +9,10 @@ boats: 11
 winner_abs: Electra
 winner_cor: Furija 2
 summary: "11 jadrnic, Vrsar - Červar - Fažana - Brioni - Rovinj"
+sponsors:
+    - marina-vrsar
+    - marina-crvar
+    - socomec-sicon
 ---
 
 Vremenske napovedi so letos obetale močne južne vetrove, kar običajno pomeni manjša jadra, večje hitrosti, toplo vreme in dež. Na startu se je zbralo 11 jadrnic, dolgih od 8 do 13 metrov. Skiperji so se odločili za drugo varianto - jadranje ob zahodni obali Istre. Nočno etapo smo "prespali" kar v marini Vrsar, saj je bilo preveč juga za varno plovbo.
@@ -19,9 +23,3 @@ V tretji etapi smo dosegli letošnjo najjužnejšo točko - otok Jerolim na Brio
 
 ## Vtisi
  - [PBJ 2006 - foto](https://photos.app.goo.gl/iLDxoSS6k7dDnma17)
-
-## Donatorji in sponzorji
-
-[{% image "assets/sponsor/marina-vrsar.jpg", "Marina Vrsar" %}](http://montraker.hr/)
-[{% image "assets/sponsor/marina-crvar.jpg", "Marina Črvar" %}]()
-[{% image "assets/sponsor/socomec-sicon.gif", "socomec sicon UPS" %}]()

@@ -1,0 +1,81 @@
+{
+  "antik-rogaska": {
+    "name": "Antik Rogaška",
+    "ext": "jpg"
+  },
+  "atlantis": {
+    "name": "Atlantis",
+    "ext": "jpg"
+  },
+  "gjerkes": {
+    "name": "Vina Gjerkeš",
+    "link": "http://www.vina-gjerkes.com",
+    "ext": "jpg"
+  },
+  "gradacta": {
+    "name": "Gradacta",
+    "link": "https://www.gradacta.com",
+    "ext": "jpg"
+  },
+  "kd": {
+    "name": "KD Group",
+    "link": "http://www.kd-group.com",
+    "ext": "gif"
+  },
+  "arina-crvar": {
+    "name": "Gradacta",
+    "ext": "jpg"
+  },
+  "marina-vrsar-adriasail": {
+    "name": "Marina Vrsar",
+    "ext": "jpg"
+  },
+  "marina-vrsar": {
+    "name": "Marina Vrsar",
+    "link": "http://montraker.hr",
+    "ext": "jpg"
+  },
+  "pego-plus": {
+    "name": "Pego Plus",
+    "link": "http://www.pego.si",
+    "ext": "jpg"
+  },
+  "slip-underwatercoat": {
+    "name": "Slip UnderWaterCoat",
+    "ext": "jpg"
+  },
+  "socomec-sicon": {
+    "name": "Socomec SICON",
+    "link": "https://www.socomec.si",
+    "ext": "gif"
+  },
+  "socomec-ups": {
+    "name": "Socomec UPS",
+    "link": "https://www.socomec.si",
+    "ext": "jpg"
+  },
+  "sprinter": {
+    "name": "Šprinter",
+    "link": "https://sprinter.si",
+    "ext": "jpg"
+  },
+  "supreme-sails": {
+    "name": "Supreme Sails",
+    "link": "http://www.supreme.si",
+    "ext": "jpg"
+  },
+  "triton-basler": {
+    "name": "Triton Basler",
+    "ext": "jpg"
+  },
+  "trost": {
+    "name": "Restaurant Trošt",
+    "link": "https://restoran-trost.hr",
+    "ext": "jpg"
+  },
+  "zav-maribor": {
+    "name": "Zavarovalnica Maribor",
+    "link": "https://www.zav-sava.si",
+    "ext": "jpg"
+  }
+}

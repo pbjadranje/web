@@ -10,6 +10,14 @@ boats: 17
 winner_abs: Porta Nova
 winner_cor: Porta Nova + Express-Express
 summary: "17 jadrnic, Vrsar - Brioni - Fažana - Poreč"
+sponsors:
+    - marina-vrsar-adriasail
+    - socomec-sicon
+    - atlantis
+    - kd
+    - zav-maribor
+    - gradacta
+    - gjerkes
 ---
 
 Jadranje smo začeli v svetli noči s spremenljivim vetrom. Vrstni red se je menjal, nekateri so izgubili nekaj mest tik pred ciljem v Vrsarju.
@@ -20,14 +28,3 @@ Na koncu smo vsi uspešno zaključili naše zimsko jadranje!
 
 ## Vtisi
  - [PBJ 2003 - foto - avtor: Gregor Čampa, Martin Trobec, Gašper Lesjak](https://photos.app.goo.gl/y21PufDSp2Scs9Qi9)
-
-
-## Donatorji in sponzorji
-
-[{% image "assets/sponsor/marina-vrsar-adriasail.jpg", "Marina Vrsar" %}]()
-[{% image "assets/sponsor/socomec-sicon.gif", "socomec sicon UPS" %}]()
-[{% image "assets/sponsor/atlantis.jpg", "Atlantis" %}]()
-[{% image "assets/sponsor/kd.gif", "KD Group" %}]()
-[{% image "assets/sponsor/zav-maribor.jpg", "Zavarovalnica Maribor" %}]()
-[{% image "assets/sponsor/gradacta.jpg", "Grad Acta" %}]()
-[{% image "assets/sponsor/gjerkes.jpg", "Vina Gjerkeš" %}]()

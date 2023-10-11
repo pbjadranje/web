@@ -12,13 +12,11 @@ boats: 12
 winner_abs: Electra
 winner_cor: Express Izudin
 summary: "12 jadrnic, Vrsar - Premuda - Mali Lošinj - Veruda"
+sponsors:
+    - marina-vrsar
+    - socomec-ups
 ---
 
 ## Vtisi
  - [Gregor Čampa: Predbožično jadranje-09-jadranje presežkov!](http://www.jadralniklub-nm.si/si/prispevki/detajl/?id=360)
  - [PBJ 2009 - foto - avtor: Gregor Čampa](https://photos.app.goo.gl/1iiUkLBm5X9gbTBe6)
-
-## Donatorji in sponzorji
-
-[{% image "assets/sponsor/marina-vrsar.jpg", "Marina Vrsar" %}](http://montraker.hr/)
-[{% image "assets/sponsor/socomec-ups.jpg", "socomec UPS" %}]()

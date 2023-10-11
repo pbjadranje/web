@@ -9,6 +9,12 @@ boats: 12
 winner_abs: Jonatan team
 winner_cor: Jonatan team
 summary: "12 jadrnic, Vrsar - Susak - Fažana"
+sponsors:
+    - marina-vrsar-adriasail
+    - trost
+    - socomec-sicon
+    - kd
+    - sprinter
 ---
 
 Pred regato vreme ni bilo nič kaj obetavno, tako da je bil naš cilj - Susak vprašljiv. 12 jadrnic (od A40 do H800) je pričelo jadranje pred marino Vrsar v oblačni noči in šibkem spremenljivem vetru. Pred Rovinjem smo bili okrog dveh ponoči. Popolna bonaca in rahel dež! Lez kakšno uro se je zbudil severni veter, ki je gnal naše špinakre v mesečini mimo Porerja do opoldanskega Suska.
@@ -19,12 +25,3 @@ Zjutraj nas je presenetil močan naliv in nevihtni veter, ki pa se je kmalu umir
 
 ## Vtisi
  - [PBJ 2004 - foto - avtor: Martin Trobec, Tajan Trobec, Žarko Brajovič](https://photos.app.goo.gl/QHrnXLsx97sJk6UZ6)
-
-
-## Donatorji in sponzorji
-
-[{% image "assets/sponsor/marina-vrsar-adriasail.jpg", "Marina Vrsar" %}]()
-[{% image "assets/sponsor/trost.jpg", "Restaurant Trošt" %}]()
-[{% image "assets/sponsor/socomec-sicon.gif", "socomec sicon UPS" %}]()
-[{% image "assets/sponsor/kd.gif", "KD Group" %}]()
-[{% image "assets/sponsor/sprinter.jpg", "Šprinter" %}]()

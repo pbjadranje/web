@@ -9,6 +9,12 @@ boats: 15
 winner_abs: Express Izudin
 winner_cor: Express Izudin
 summary: "15 jadrnic, Vrsar - Porer - Cres - Veruda"
+sponsors:
+    - marina-vrsar
+    - marina-crvar
+    - socomec-sicon
+    - kd
+    - triton-basler
 ---
 
 Vreme je letos obetalo dosti vetra. 15 jadrnic, od 8 do 14 metrov, je pričelo jadranje pred marino Vrsar ob 20h v mesečini in šibkem vetru. Vmesni cilj Porer so prve barke objadrale že okrog 3h, tiste malo bolj zadaj pa so padle v brezveterje. Cres sta do časovnega limita, 15h, dosegli dve jadrnici. Druge, popoldanske, etape se ni nihče udeležil, ker je bilo še vedno premalo vetra.
@@ -18,12 +24,3 @@ Naslednji dan nas je že na startu v Cresu pričaka močna burja, spinakerji so 
 ## Vtisi
  - [PBJ 2005 - video utrinki iz Express Izudina](http://www.youtube.com/watch?v=83Y-Jg3TjC0)
  - [PBJ 2005 - foto - avtor: Tajan Trobec, Dušan Vesel, Janez Prešern](https://photos.app.goo.gl/diWWysjAneSiGtvB6)
-
-
-## Donatorji in sponzorji
-
-[{% image "assets/sponsor/marina-vrsar.jpg", "Marina Vrsar" %}](http://montraker.hr/)
-[{% image "assets/sponsor/marina-crvar.jpg", "Marina Črvar" %}]()
-[{% image "assets/sponsor/socomec-sicon.gif", "socomec sicon UPS" %}]()
-[{% image "assets/sponsor/kd.gif", "KD Group" %}]()
-[{% image "assets/sponsor/triton-basler.jpg", "Triton" %}]()

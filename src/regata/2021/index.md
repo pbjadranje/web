@@ -13,13 +13,11 @@ boats: 16
 winner_abs: Norika
 winner_cor: Norika
 summary: "16 jadrnic, namesto čez Kvarner tokrat nočna okoli Brionov."
+sponsors:
+    - marina-vrsar
+    - pego-plus
 ---
 
 ## Vtisi
  - [Gregor Čampa: Blog moje Morje – "PBJ – Predbožično jadranje – predbožično pleme…"](http://gregorcampa.blogspot.com/2021/12/pbj-predbozicno-jadranje-predbozicno.html)
  - [PBJ 2021 - foto - avtor: Ana Trobec, Luka Renko](https://photos.app.goo.gl/RZxgAgPgNxWkzQFQ8)
-
-## Donatorji in sponzorji
-
-[{% image "assets/sponsor/marina-vrsar.jpg", "Marina Vrsar" %}](http://montraker.hr/)
-[{% image "assets/sponsor/pego-plus.jpg", "Pego Plus" %}](http://www.pego.si/)

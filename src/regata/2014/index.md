@@ -12,11 +12,9 @@ boats: 10
 winner_abs: Express Izudin
 winner_cor: Fado
 summary: "10 jadrnic"
+sponsors:
+    - marina-vrsar
 ---
 
 ## Vtisi
  - [Lojze Vrenčur: blog Svet pod lahkimi nogami - PBJ 2014](http://ab.vrencur.info/2014/12/xxvii-predbozicno-jadranje.html)
-
-## Donatorji in sponzorji
-
-[{% image "assets/sponsor/marina-vrsar.jpg", "Marina Vrsar" %}](http://montraker.hr/)
