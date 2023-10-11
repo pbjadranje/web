@@ -22,8 +22,8 @@
     "link": "http://www.kd-group.com",
     "ext": "gif"
   },
-  "arina-crvar": {
-    "name": "Gradacta",
+  "marina-crvar": {
+    "name": "Marina Črvar",
     "ext": "jpg"
   },
   "marina-vrsar-adriasail": {
@@ -45,9 +45,9 @@
     "ext": "jpg"
   },
   "socomec-sicon": {
-    "name": "Socomec SICON",
+    "name": "Socomec Sicon UPS",
     "link": "https://www.socomec.si",
-    "ext": "gif"
+    "ext": "jpg"
   },
   "socomec-ups": {
     "name": "Socomec UPS",
