@@ -16,6 +16,9 @@
     <meta property="og:type" content="article">
     <meta property="og:description" content="{{ summary }}">
     <meta property="og:site_name" content="Predbožično jadranje - PBJ">
+    {% if image %}
+        {% imageOpenGraph image %}
+    {% endif %}
 </head>
 
 <body class="font-serif bg-tertiary">

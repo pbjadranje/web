@@ -6,8 +6,21 @@ const Image = require("@11ty/eleventy-img")
 const VitePlugin = require("@11ty/eleventy-plugin-vite");
 
 
+async function imageOpenGraph(src) {
+    const imagePath = src.startsWith('./') ? path.join(path.dirname(this.page.inputPath), src) : src
+
+    let metadata = await Image(imagePath, {
+        outputDir: "dist/img/",
+        widths: [1280],
+        formats: ["webp"]
+    })
+
+    let data = metadata.webp[metadata.webp.length - 1]
+    return `<meta property="og:image" content="${data.url}">`;
+
+}
+
 async function imageShortcode(src, alt, sizes) {
-    // If src is a relative path, resolve it relative to the current page.
     const imagePath = src.startsWith('./') ? path.join(path.dirname(this.page.inputPath), src) : src
 
     let metadata = await Image(imagePath, {
@@ -50,6 +63,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("code");
 
     eleventyConfig.addAsyncShortcode("image", imageShortcode)
+    eleventyConfig.addAsyncShortcode("imageOpenGraph", imageOpenGraph)
 
 
     return {
