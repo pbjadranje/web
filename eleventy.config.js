@@ -16,8 +16,7 @@ async function imageOpenGraph(src) {
     })
 
     let data = metadata.jpeg[metadata.jpeg.length - 1]
-    return `${data.url}`;
-
+    return data.url;
 }
 
 async function imageShortcode(src, alt, sizes) {
