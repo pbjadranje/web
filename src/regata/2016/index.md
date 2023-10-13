@@ -3,6 +3,7 @@ title: XXIX. Predbožično jadranje
 date: 2016-12-07
 year: 2016
 logo: /assets/logo/logo-pbj-2016.jpg
+image: pbj-2016.jpg
 nor: https://drive.google.com/file/d/1JwOIEKGyclIjPnyN8I9gtnNw9FUYz-6s/view?usp=sharing
 apply: https://drive.google.com/file/d/1CqC6vCnaBlYysACOuF0dY2zoqyqy77F_/view?usp=sharing
 attendees: https://drive.google.com/file/d/1SLzlzNflHCgWIlEvJ9FbQmoSkP66qfG3/view?usp=sharing
