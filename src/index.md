@@ -1,7 +1,7 @@
 ---
 title: Predbožično jadranje - PBJ
 layout: base.html
-image: ./pbj.jpg
+image: pbj.jpg
 ---
 
 <h1 class="!mb-gap">{% block title %}{{ title }}{% endblock %}</h1>
@@ -73,4 +73,4 @@ Sedaj se na Predbožičnem jadranju srečujemo ljubitelji morja, da bi ga občut
 
 Decembra 1986 pred Božičem smo odjadrali z Electro zvečer iz Červarja; jutro na Kvarnerju; večer na Susku;
 
-{% image "./boz_reg86.jpg", "Med prvim božičnim jadranjem, Kvarner, december 1986." %}
+{% image "boz_reg86.jpg", "Med prvim božičnim jadranjem, Kvarner, december 1986." %}

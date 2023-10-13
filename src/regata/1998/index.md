@@ -12,6 +12,6 @@ summary: ""
 
 XI. Predbožično jadranje se letos prične v sredo 9. decembra v marini Červar in konča po sedmih etapah v marini Zelena laguna, v soboto 12. decembra 1998.
 
-{% image "./z2_98_r.jpg", "Zemljevid etap po Istri, 1998" %}
+{% image "z2_98_r.jpg", "Zemljevid etap po Istri, 1998" %}
 
 Fotografij žal ni.

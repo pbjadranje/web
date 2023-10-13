@@ -13,7 +13,7 @@ summary: ""
 
 X. Predbožično jadranje se letos prične v sredo 10. decembra v marini Červar in konča po sedmih etapah v marini Zelena laguna, v soboto 13. decembra 1997.
 
-{% image "./z2_97_r.jpg", "Zemljevid etap po Istri, 1997" %}
+{% image "z2_97_r.jpg", "Zemljevid etap po Istri, 1997" %}
 
 ## Vtisi
  - [PBJ 1997 - foto](https://photos.app.goo.gl/Ey1PJruAgP4ffbun9)

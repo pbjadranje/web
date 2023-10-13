@@ -12,7 +12,7 @@ summary: "Istra po dolgem in počez."
 
 IX. Predbožično jadranje se letos prične v četrtek 12. decembra v marini Červar in konča po petih etapah v marini Zelena laguna, v soboto 14. decembra.
 
-{% image "./z2c.jpg", "Zemljevid etap po Istri, 1996" %}
+{% image "z2c.jpg", "Zemljevid etap po Istri, 1996" %}
 
 ## Vtisi
  - [PBJ 1996 - foto](https://photos.app.goo.gl/oMh2AMnrYERwcziP7)
