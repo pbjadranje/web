@@ -12,11 +12,11 @@ async function imageOpenGraph(src) {
     let metadata = await Image(imagePath, {
         outputDir: "dist/img/",
         widths: [1280],
-        formats: ["webp"]
+        formats: ["jpeg"]
     })
 
-    let data = metadata.webp[metadata.webp.length - 1]
-    return `<meta property="og:image" content="${data.url}">`;
+    let data = metadata.jpeg[metadata.jpeg.length - 1]
+    return `${data.url}`;
 
 }
 
