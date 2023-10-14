@@ -3,7 +3,7 @@ title: XXVIII. Predbožično jadranje
 date: 2015-12-02
 year: 2015
 logo: /assets/logo/logo-pbj-2015.jpg
-image: pbj-2015.jpg
+image: /assets/images/pbj-2015.jpg
 nor: https://drive.google.com/file/d/1wbDeNH5rWukwipqH_RzxB1EzAb4MWBH2/view?usp=sharing
 apply: https://drive.google.com/file/d/1g24GsplxkvciFv2U8dy5soQb1kA0PzKA/view?usp=sharing
 attendees: https://drive.google.com/file/d/1stAExfR7AAETjD7YpTuWmKiNactckTIZ/view?usp=sharing

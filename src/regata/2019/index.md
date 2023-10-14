@@ -3,7 +3,7 @@ title: XXXII. Predbožično jadranje
 date: 2019-12-04
 year: 2019
 logo: /assets/logo/logo-pbj-2019.jpg
-image: pbj-2019.jpg
+image: /assets/images/pbj-2019.jpg
 nor: https://drive.google.com/file/d/1iEhDBrTjenmObWSNaTmhfDTuQCITTVIa/view?usp=sharing
 rules: https://drive.google.com/file/d/19usMrA0OocrVv10vFdKe2Omg7e-5s3qT/view?usp=sharing
 apply: https://drive.google.com/file/d/1xjtoLJnCvdIj55niO6HQDMKceokOfq4N/view?usp=sharing

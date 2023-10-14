@@ -1,12 +1,12 @@
 ---
 title: Predbožično jadranje - PBJ
 layout: base.html
-image: pbj.jpg
+image: /assets/images/pbj.jpg
 ---
 
 <h1 class="!mb-gap">{% block title %}{{ title }}{% endblock %}</h1>
 
-{% image image title %}
+<img src="{{ image }}" alt="{{ title }}" class="w-full rounded-lg shadow-lg">
 
 {% for regata in collections.regata reversed %}
     {% if regata.data.active %}

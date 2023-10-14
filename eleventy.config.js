@@ -5,20 +5,6 @@ const path = require("path")
 const Image = require("@11ty/eleventy-img")
 const VitePlugin = require("@11ty/eleventy-plugin-vite");
 
-
-async function imageOpenGraph(src) {
-    const imagePath = src.startsWith('/') ? src : path.join(path.dirname(this.page.inputPath), src)
-
-    let metadata = await Image(imagePath, {
-        outputDir: "dist/img/",
-        widths: [1280],
-        formats: ["jpeg"]
-    })
-
-    let data = metadata.jpeg[metadata.jpeg.length - 1]
-    return data.url;
-}
-
 async function imageShortcode(src, alt, sizes) {
     const imagePath = src.startsWith('/') ? src : path.join(path.dirname(this.page.inputPath), src)
 
@@ -51,8 +37,6 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("code");
 
     eleventyConfig.addAsyncShortcode("image", imageShortcode)
-    eleventyConfig.addAsyncShortcode("imageOpenGraph", imageOpenGraph)
-
 
     return {
         dir: {

@@ -3,7 +3,7 @@ title: XXVI. Predbožično jadranje
 date: 2013-12-11
 year: 2013
 logo: /assets/logo/logo-pbj-2013.jpg
-image: pbj-2013.jpg
+image: /assets/images/pbj-2013.jpg
 nor: https://drive.google.com/file/d/1OOGjySFgjo4WsqNwOJMghF05o2u0xzdJ/view?usp=sharing
 apply: https://drive.google.com/file/d/1R1HSpJdsv5z5NJchezgljm5GAW6945ul/view?usp=sharing
 attendees: https://drive.google.com/file/d/1vwhMv_56E-D1JkOKlLvXS5YLH4dYjs0P/view?usp=sharing

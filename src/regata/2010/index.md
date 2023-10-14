@@ -3,7 +3,7 @@ title: XXIII. Predbožično jadranje
 date: 2010-12-08
 year: 2010
 logo: /assets/logo/logo-pbj-2010.jpg
-image: pbj-2010.jpg
+image: /assets/images/pbj-2010.jpg
 nor: https://drive.google.com/file/d/1dz8dyRu453pLTKE0JcdRkAtQ0T-440QO/view?usp=sharing
 apply: https://drive.google.com/file/d/15jywIC4Sm5nTWkZP2foV38dCh31Z7GD6/view?usp=sharing
 attendees: https://drive.google.com/file/d/1RtMdrEzJOxaT0HK-qRmeYJTkTbgZmpMi/view?usp=sharing

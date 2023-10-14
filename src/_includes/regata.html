@@ -11,7 +11,7 @@ layout: base.html
     </div>
 
     {% if image %}
-        {% image image title %}
+        <img src="{{ image }}" alt="{{ title }}" class="w-full rounded-lg shadow-lg">
     {% endif %}
 
     {% if logo and nor %}

@@ -3,7 +3,7 @@ title: XXXI. Predbožično jadranje
 date: 2018-12-05
 year: 2018
 logo: /assets/logo/logo-pbj-2018.jpg
-image: pbj-2018.jpg
+image: /assets/images/pbj-2018.jpg
 nor: https://drive.google.com/file/d/1E_DcnEmUdRnve9gBeI5nCm3oK-8IelYS/view?usp=sharing
 rules: https://drive.google.com/file/d/1hv0D-huarF6bVZn7boOqebLtNS576vnf/view?usp=sharing
 apply: https://drive.google.com/file/d/1HLzgxHAbgxGQB9MYb-0QNM5i1I5Zt9s8/view?usp=sharing

@@ -18,9 +18,9 @@
     <meta property="og:description" content="{{ summary }}">
     <meta property="og:site_name" content="Predbožično jadranje - PBJ">
     {% if image %}
-        {% capture imgPath %}{% imageOpenGraph image %}{% endcapture %}
-        {% assign fullUrl = site.baseurl | append: imgPath %}
-        <meta property="og:image" content="{{ fullUrl | url }}">
+        <meta property="og:image" content="{{ site.baseurl }}{{ image }}">
+    {% elsif logo %}
+        <meta property="og:image" content="{{ site.baseurl }}{{ logo }}">
     {% endif %}
 </head>
 
