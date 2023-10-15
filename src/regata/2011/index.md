@@ -21,3 +21,4 @@ sponsors:
 
 ## Vtisi
  - [PBJ 2011 - foto - avtor: Janez Prešern, Lojze Vrenčur](https://photos.app.goo.gl/BNN9pJL8KnEZ89ZC8)
+ - [PBJ 2011 - Srečko Škrlec: zapis na spletni strani JK Odisej](https://www.odisej.org/2012/01/10/predbozicno-jadranje-2011/)
