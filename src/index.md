@@ -16,7 +16,7 @@ image: /assets/images/pbj.jpg
         <div class="lead">
             {{ regata.data.summary }}
 
-            Več informacij je na voljo <a href="{{ regata.url }}">tukaj</a>.
+            Več informacij je na voljo <a href="{{ regata.url }}" class="no-underline border-b-2 border-link hover:bg-link-hover">tukaj</a>.
         </div>
         {% break %}
     {% endif %}
@@ -51,7 +51,7 @@ Sedaj se na Predbožičnem jadranju srečujemo ljubitelji morja, da bi ga občut
     <tbody>
         {% for regata in collections.regata reversed %}
             <tr>
-                <td class="text-left"><a href="{{ regata.url }}"> {{ regata.data.title }} </a></td>
+                <td class="text-left"><a href="{{ regata.url }}" class="no-underline border-b-2 border-link hover:bg-link-hover"> {{ regata.data.title }} </a></td>
                 <td class="text-center">{{ regata.data.year }}</td>
                 <td class="text-center">{{ regata.data.boats }}</td>
                 <td class="text-center">

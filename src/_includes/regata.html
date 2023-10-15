@@ -34,7 +34,7 @@ layout: base.html
                     {% endif %}
 
                     {% if results %}
-                        <li><a href="{{ results }}">Rezultati</a></li>
+                        <li><a href="{{ results }}" class="no-underline border-b-2 border-link hover:bg-link-hover">Rezultati</a></li>
                     {% endif %}
                     </ul>
                 {% endif %}
@@ -43,23 +43,23 @@ layout: base.html
                     <h2 class="!mb-gap">{% block title %} Razpisni dokumenti {% endblock %}</h2>
                     <ul>
                     {% if nor %}
-                        <li><a href="{{ nor }}">Program</a></li>
+                        <li><a href="{{ nor }}" class="no-underline border-b-2 border-link hover:bg-link-hover">Program</a></li>
                     {% endif %}
 
                     {% if rules %}
-                        <li><a href="{{ rules }}">Pravila</a></li>
+                        <li><a href="{{ rules }}" class="no-underline border-b-2 border-link hover:bg-link-hover">Pravila</a></li>
                     {% endif %}
 
                     {% if apply %}
-                        <li><a href="{{ apply }}">Prijavnica</a></li>
+                        <li><a href="{{ apply }}" class="no-underline border-b-2 border-link hover:bg-link-hover">Prijavnica</a></li>
                     {% endif %}
 
                     {% if attendees %}
-                        <li><a href="{{ attendees }}">Prijavljene jadrnice</a></li>
+                        <li><a href="{{ attendees }}" class="no-underline border-b-2 border-link hover:bg-link-hover">Prijavljene jadrnice</a></li>
                     {% endif %}
 
                     {% if weather %}
-                        <li><a href="{{ weather }}">Spremljanje vremenske napovedi</a></li>
+                        <li><a href="{{ weather }}" class="no-underline border-b-2 border-link hover:bg-link-hover">Spremljanje vremenske napovedi</a></li>
                     {% endif %}
                     </ul>
                 {% endif %}

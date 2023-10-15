@@ -6,13 +6,17 @@ module.exports = {
     theme: {
         extend: {
             colors: {
-                'primary': '#edbf15',
-                'secondary': '#ac2a19',
-                'tertiary': '#f3f1f0',
+                'primary': '#1c1c1c',
+                'secondary': '#e6242d',
+                'tertiary': '#f5f5f5',
                 'muted': '#7a7a7a',
             },
+            backgroundColor: {
+                'link-hover': '#f4c10b',
+            },
             borderColor: {
-                DEFAULT: '#D5D4D3',
+               'link': '#f4c10b',
+               DEFAULT: '#D5D4D3',
             },
             spacing: {
                 'gap': '1rem',
