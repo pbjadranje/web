@@ -2,6 +2,7 @@
 title: IX. Predbožično jadranje
 date: 1996-12-12
 year: 1996
+image: /assets/images/pbj-1996.jpg
 nor: https://drive.google.com/file/d/1VwnOmVv4ktppx16cvIs1MmwBIeLIT6Hr/view?usp=sharing
 results: https://drive.google.com/file/d/1K0CEvK_JrMWGXVVWM8K-Ud3wC4VkWm04/view?usp=sharing
 boats: 11

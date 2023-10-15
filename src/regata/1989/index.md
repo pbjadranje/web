@@ -2,6 +2,7 @@
 title: II. Predbožično jadranje
 date: 1989-12-20
 year: 1989
+image: /assets/images/pbj-1989.jpg
 boats: 2
 summary: "Tokrat že dve jadrnici na dogodku: skupaj ponoči prejadrajo Kvarner."
 ---
