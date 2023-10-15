@@ -25,3 +25,4 @@ sponsors:
  - [PBJ 2010 - video - Susak - Premuda iz ExpressIzudina](http://www.youtube.com/watch?v=k2CFMk_ukrk)
  - [PBJ 2010 - video - Premuda iz ExpressIzudina](http://www.youtube.com/watch?v=5PxpuiDfSAM)
  - [PBJ 2010 - video - Premuda - Veruda iz ExpressIzudina](http://www.youtube.com/watch?v=1hDYCiamXZw)
+ - [PBJ 2010 - Božo Dajčar: zapis na spletni strani JK Odisej](https://www.odisej.org/2010/12/16/xxiii-predbozicno-jadranje-december-2010/)
