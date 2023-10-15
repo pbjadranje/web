@@ -2,6 +2,7 @@
 title: XIII. Predbožično jadranje
 date: 2000-12-06
 year: 2000
+image: /assets/images/pbj-2000.jpg
 nor: https://drive.google.com/file/d/10FZouSShuDcEg-X03bVz9iVTK15V5vN-/view?usp=sharing
 results: https://drive.google.com/file/d/1rJ9-Hadh-Z8MffRDF9MQfyG07860dLAK/view?usp=sharing
 boats: 17

@@ -2,6 +2,7 @@
 title: XIV. Predbožično jadranje
 date: 2001-12-05
 year: 2001
+image: /assets/images/pbj-2001.jpg
 nor: https://drive.google.com/file/d/10FZouSShuDcEg-X03bVz9iVTK15V5vN-/view?usp=sharing
 results: https://drive.google.com/file/d/1rJ9-Hadh-Z8MffRDF9MQfyG07860dLAK/view?usp=sharing
 boats: 12

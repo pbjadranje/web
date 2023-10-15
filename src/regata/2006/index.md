@@ -2,6 +2,7 @@
 title: XIX. Predbožično jadranje
 date: 2006-12-06
 year: 2006
+image: /assets/images/pbj-2006.jpg
 nor: https://drive.google.com/file/d/1EjcZidOSKvM6HCRYhnOAwfLVgwme9u0i/view?usp=sharing
 attendees: https://drive.google.com/file/d/1sxt34nlLxTLZY_7Ztj0GK36jntiRbId-/view?usp=sharing
 results: https://drive.google.com/file/d/1Nb4VCRyiPh4kxAPBMTAnNdA0ejaOsNbS/view?usp=sharing

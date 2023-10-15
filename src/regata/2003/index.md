@@ -2,6 +2,7 @@
 title: XVI. Predbožično jadranje
 date: 2003-12-03
 year: 2003
+image: /assets/images/pbj-2003.jpg
 nor: https://drive.google.com/file/d/1wbHPCUSAh_WeA3mUBhePZi45ZCl4csfG/view?usp=sharing
 rules: https://drive.google.com/file/d/1gA61HjacBCb0yBSsEhtpBqL91NwjF8f1/view?usp=sharing
 attendees: https://drive.google.com/file/d/18sx1ikyHlUltms2kUmuD3HbmCoRDyFHW/view?usp=sharing

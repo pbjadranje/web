@@ -2,6 +2,7 @@
 title: XVIII. Predbožično jadranje
 date: 2005-12-07
 year: 2005
+image: /assets/images/pbj-2005.jpg
 nor: https://drive.google.com/file/d/1VNPD1DmuCa-8tODW-FU3Mt9rcYByEaaT/view?usp=sharing
 attendees: https://drive.google.com/file/d/1rM8_pb9KHz7RnLYsRstE1B9G1xDwdV-g/view?usp=sharing
 results: https://drive.google.com/file/d/1HkTAujLQb5lmLYtSJ05P1nPTf_PGHXu5/view?usp=sharing
