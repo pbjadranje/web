@@ -23,5 +23,6 @@ Vreme je letos obetalo dosti vetra. 15 jadrnic, od 8 do 14 metrov, je pričelo j
 Naslednji dan nas je že na startu v Cresu pričaka močna burja, spinakerji so položili nekaj najpogumnejših in neprevidnih. Pot do Kamenjaka je bila ena najhitrejših in lepih ob vetru do 40 vozlov in hitrostnih rekordih večine udeležencev. Pred Verudo so nas postavili na realna tla jadralci v laserjih, ki so pogumno premagovali močan veter. Še zadnji dve etapi v močnem bočnem vetru, ki je čedalje bolj obračal na sever, tako da je bil nekaterim barkam Červar kar težko dosegljiv. Do zadnjega trenutka je bilo napeto. Na koncu smo jo vsi odnesli brez hujših nezgod; potrgana jadra, voda v podpalubju in druge manjše poškodbe pa nam niso prišle do živega.
 
 ## Vtisi
+ - [PBJ 2005 - video utrinki iz Electre - avtor: Tajan Trobec](https://www.youtube.com/watch?v=jGhEDtY8yus)
  - [PBJ 2005 - video utrinki iz Express Izudina](http://www.youtube.com/watch?v=83Y-Jg3TjC0)
  - [PBJ 2005 - foto - avtor: Tajan Trobec, Dušan Vesel, Janez Prešern](https://photos.app.goo.gl/diWWysjAneSiGtvB6)

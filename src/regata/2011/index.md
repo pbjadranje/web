@@ -20,5 +20,7 @@ sponsors:
 ---
 
 ## Vtisi
+ - [Lojze Vrenčur: blog Svet pod lahkimi nogami - PBJ 2011](http://ab.vrencur.info/2011/12/predbozicno-jadranje-2011.html)
+ - [Srečko Škrlec: zapis na spletni strani JK Odisej - PBJ 2011](https://www.odisej.org/2012/01/10/predbozicno-jadranje-2011/)
+ - [PBJ 2011 - video - video utrinki iz Istra Dehler](https://www.youtube.com/watch?v=0SJMkCSmHFc)
  - [PBJ 2011 - foto - avtor: Janez Prešern, Lojze Vrenčur](https://photos.app.goo.gl/BNN9pJL8KnEZ89ZC8)
- - [PBJ 2011 - Srečko Škrlec: zapis na spletni strani JK Odisej](https://www.odisej.org/2012/01/10/predbozicno-jadranje-2011/)

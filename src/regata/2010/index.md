@@ -19,10 +19,12 @@ sponsors:
 ---
 
 ## Vtisi
- - [PBJ 2010 - foto](https://photos.app.goo.gl/pqBY645ty93wvjUf6)
+ - [Lojze Vrenčur: blog Svet pod lahkimi nogami - PBJ 2010](http://ab.vrencur.info/2010/12/predbozicna-regata-2010.html)
+ - [Božo Dajčar: zapis na spletni strani JK Odisej - PBJ 2010](https://www.odisej.org/2010/12/16/xxiii-predbozicno-jadranje-december-2010/)
  - [PBJ 2010 - video - Vrsar - Susak iz ExpressIzudina](http://www.youtube.com/watch?v=j9AzeJg79E8)
  - [PBJ 2010 - video - Kvarner iz ExpressIzudina](http://www.youtube.com/watch?v=oP3Y0PwF31s)
  - [PBJ 2010 - video - Susak - Premuda iz ExpressIzudina](http://www.youtube.com/watch?v=k2CFMk_ukrk)
  - [PBJ 2010 - video - Premuda iz ExpressIzudina](http://www.youtube.com/watch?v=5PxpuiDfSAM)
  - [PBJ 2010 - video - Premuda - Veruda iz ExpressIzudina](http://www.youtube.com/watch?v=1hDYCiamXZw)
- - [PBJ 2010 - Božo Dajčar: zapis na spletni strani JK Odisej](https://www.odisej.org/2010/12/16/xxiii-predbozicno-jadranje-december-2010/)
+ - [PBJ 2010 - video - Veruda in juganje iz ExpressIzudina](https://www.youtube.com/watch?v=DOOMV6hWU6I)
+ - [PBJ 2010 - foto](https://photos.app.goo.gl/pqBY645ty93wvjUf6)

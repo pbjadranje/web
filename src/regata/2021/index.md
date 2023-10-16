@@ -20,5 +20,5 @@ sponsors:
 ---
 
 ## Vtisi
- - [Gregor Čampa: Blog moje Morje – "PBJ – Predbožično jadranje – predbožično pleme…"](http://gregorcampa.blogspot.com/2021/12/pbj-predbozicno-jadranje-predbozicno.html)
+ - [Gregor Čampa: Blog moje Morje – PBJ – Predbožično jadranje – predbožično pleme…](http://gregorcampa.blogspot.com/2021/12/pbj-predbozicno-jadranje-predbozicno.html)
  - [PBJ 2021 - foto - avtor: Ana Trobec, Luka Renko](https://photos.app.goo.gl/RZxgAgPgNxWkzQFQ8)

@@ -25,4 +25,5 @@ Na Susku ni bilo počitka! Popoldne smo zajadrali okrog otoka, zvečer pa sponta
 Zjutraj nas je presenetil močan naliv in nevihtni veter, ki pa se je kmalu umiril. Pot do Fažane se je spet končala v noči, dobri pa so bili tisti, ki znajo voziti v veter in slediti rahlim spremembam njegove smeri. Četrte etape nismo končali zaradi brezvetrja. Zadnja etapa pa je bila spet zanimiva, saj je potekala v zelo spremenljivem vetru tako glede jakosti kot smeri. Na koncu smo vsi uspešno zaključili naše zimsko jadranje in premlevali naše dogodivščine ob toplem kaminu v Vrsarski konobi!
 
 ## Vtisi
+ - [PBJ 2004 - video utrinki iz Electre - avtor: Tajan Trobec](https://www.youtube.com/watch?v=_3S5E5yWuwA)
  - [PBJ 2004 - foto - avtor: Martin Trobec, Tajan Trobec, Žarko Brajovič](https://photos.app.goo.gl/QHrnXLsx97sJk6UZ6)

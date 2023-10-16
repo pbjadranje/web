@@ -20,4 +20,6 @@ sponsors:
 ---
 
 ## Vtisi
+ - [Lojze Vrenčur: blog Svet pod lahkimi nogami - PBJ 2017](http://ab.vrencur.info/2017_12_09_archive.html)
+ - [PBJ 2017 - video utrinki iz Tanjuše - avtor: Dušan Vesel](https://www.youtube.com/watch?v=tUNulDcuk-4)
  - [PBJ 2017 - foto - avtor: Primož/Lunga, Bogdan/Lara](https://photos.app.goo.gl/iRV5Yy9aYMnQbCqn6)

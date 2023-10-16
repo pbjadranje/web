@@ -17,4 +17,6 @@ sponsors:
     - socomec-ups
 ---
 
-Fotografij žal ni.
+## Vtisi
+- [PBJ 2008 - video utrinki iz Layle - avtor: Nejc Jelovšek](https://www.youtube.com/watch?v=jPoAWJ38DO4)
+- [PBJ 2008 - video utrinki iz Express Izudina](https://www.youtube.com/watch?v=LXhlu5gKSRg)

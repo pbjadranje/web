@@ -18,4 +18,6 @@ sponsors:
 ---
 
 ## Vtisi
+ - [Lojze Vrenčur: blog Svet pod lahkimi nogami - PBJ 2015](http://ab.vrencur.info/2015/12/xxviii-predbozicno-jadranje.html)
+ - [PBJ 2015 - video utrinki iz ExpressIzudina](https://www.youtube.com/watch?v=MFLTR8KrqCE)
  - [PBJ 2015 - foto - avtor: ZareB/Veternica, GmHumar/2Krigla](https://photos.app.goo.gl/NSVqoGQNX6rf8gBEA)
