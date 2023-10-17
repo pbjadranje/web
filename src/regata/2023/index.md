@@ -2,6 +2,7 @@
 title: XXXV. Predbožično jadranje
 date: 2023-12-06
 year: 2023
+logo: /assets/logo/logo-pbj-2023.png
 active: true
 summary: "REZERVIRAJTE TERMIN: 6. - 9. december 2023"
 ---

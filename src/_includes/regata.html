@@ -20,6 +20,8 @@ layout: base.html
                 <img src="{{ logo }}" alt="{{ title }}" width="300">
             </div>
             <div class="w-full md:w-2/3 p-4">
+    {% elsif logo %}
+        <img src="{{ logo }}" alt="{{ title }}" width="300">
     {% endif %}
 
                 {% if results or winner_abs or winner_cor %}

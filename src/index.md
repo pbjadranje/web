@@ -13,11 +13,26 @@ image: /assets/images/pbj.jpg
         <h2 class="!mb-gap">{% block title %}Aktualno: {{ regata.data.title }} {{ regata.data.year }} {% endblock %}</h2>
 
         {% block lead %}{% endblock %}
+
+        {% if regata.data.logo %}
+            <div class="flex flex-col md:flex-row items-center justify-between">
+                <div class="w-full md:w-1/3 p-4">
+                    <img src="{{ regata.data.logo }}" alt="{{ regata.data.title }}" width="300">
+                </div>
+                <div class="w-full md:w-2/3 p-4">
+        {% endif %}
+
         <div class="lead">
             {{ regata.data.summary }}
 
-            Več informacij je na voljo <a href="{{ regata.url }}" class="no-underline border-b-2 border-link hover:bg-link-hover">tukaj</a>.
+            Več informacij je na voljo <a href="{{ regata.url }}" class="font-sans font-semibold no-underline border-b-2 border-link hover:bg-link-hover">tukaj</a>.
         </div>
+
+        {% if regata.data.logo %}
+                </div>
+            </div>
+        {% endif %}
+
         {% break %}
     {% endif %}
 {% endfor %}
