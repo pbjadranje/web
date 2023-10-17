@@ -17,7 +17,7 @@ image: /assets/images/pbj.jpg
         {% if regata.data.logo %}
             <div class="flex flex-col md:flex-row items-center justify-between">
                 <div class="w-full md:w-1/3 p-4">
-                    <img src="{{ regata.data.logo }}" alt="{{ regata.data.title }}" width="300">
+                    <a href="{{ regata.url }}"><img src="{{ regata.data.logo }}" alt="{{ regata.data.title }}" width="300"></a>
                 </div>
                 <div class="w-full md:w-2/3 p-4">
         {% endif %}
