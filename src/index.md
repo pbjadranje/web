@@ -8,27 +8,27 @@ image: /assets/images/pbj.jpg
 
 <img src="{{ image }}" alt="{{ title }}" class="w-full rounded-lg shadow-lg">
 
-{% for regata in collections.regata reversed %}
-    {% if regata.data.active %}
-        <h2 class="!mb-gap">{% block title %}Aktualno: {{ regata.data.title }} {{ regata.data.year }} {% endblock %}</h2>
+{% for jadranje in collections.jadranje reversed %}
+    {% if jadranje.data.active %}
+        <h2 class="!mb-gap">{% block title %}Aktualno: {{ jadranje.data.title }} {{ jadranje.data.year }} {% endblock %}</h2>
 
         {% block lead %}{% endblock %}
 
-        {% if regata.data.logo %}
+        {% if jadranje.data.logo %}
             <div class="flex flex-col md:flex-row items-center justify-between">
                 <div class="w-full md:w-1/3 p-4">
-                    <a href="{{ regata.url }}"><img src="{{ regata.data.logo }}" alt="{{ regata.data.title }}" width="300"></a>
+                    <a href="{{ jadranje.url }}"><img src="{{ jadranje.data.logo }}" alt="{{ jadranje.data.title }}" width="300"></a>
                 </div>
                 <div class="w-full md:w-2/3 p-4">
         {% endif %}
 
         <div class="lead">
-            {{ regata.data.summary }}
+            {{ jadranje.data.summary }}
 
-            Več informacij je na voljo <a href="{{ regata.url }}" class="font-sans font-semibold no-underline border-b-2 border-link hover:bg-link-hover">tukaj</a>.
+            Več informacij je na voljo <a href="{{ jadranje.url }}" class="font-sans font-semibold no-underline border-b-2 border-link hover:bg-link-hover">tukaj</a>.
         </div>
 
-        {% if regata.data.logo %}
+        {% if jadranje.data.logo %}
                 </div>
             </div>
         {% endif %}
@@ -64,21 +64,21 @@ Sedaj se na Predbožičnem jadranju srečujemo ljubitelji morja, da bi ga občut
         </tr>
     </thead>
     <tbody>
-        {% for regata in collections.regata reversed %}
+        {% for jadranje in collections.jadranje reversed %}
             <tr>
-                <td class="text-left"><a href="{{ regata.url }}" class="no-underline border-b-2 border-link hover:bg-link-hover"> {{ regata.data.title }} </a></td>
-                <td class="text-center">{{ regata.data.year }}</td>
-                <td class="text-center">{{ regata.data.boats }}</td>
+                <td class="text-left"><a href="{{ jadranje.url }}" class="no-underline border-b-2 border-link hover:bg-link-hover"> {{ jadranje.data.title }} </a></td>
+                <td class="text-center">{{ jadranje.data.year }}</td>
+                <td class="text-center">{{ jadranje.data.boats }}</td>
                 <td class="text-center">
-                    {% if regata.data.active %}
+                    {% if jadranje.data.active %}
                         MOŽNA PRIJAVA
-                    {% elsif regata.data.cancelled %}
+                    {% elsif jadranje.data.cancelled %}
                         ODPOVEDANO
                     {% else %}
-                        {{ regata.data.winner_abs }}
+                        {{ jadranje.data.winner_abs }}
                     {% endif %}
                 </td>
-                <td class="text-center">{{ regata.data.winner_cor }}</td>
+                <td class="text-center">{{ jadranje.data.winner_cor }}</td>
             </tr>
         {% endfor %}
     </tbody>
