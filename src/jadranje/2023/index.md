@@ -3,8 +3,11 @@ title: XXXV. Predbožično jadranje
 date: 2023-12-06
 year: 2023
 logo: /assets/logo/logo-pbj-2023.png
+nor: https://drive.google.com/file/d/1V6nsVgpmDRP_jsfj0PnwDJL-VqM-HXK2/view?usp=sharing
+rules: https://drive.google.com/file/d/1obPQfzB737Yzy8_080TQ5BTCg_CCGQt6/view?usp=sharing
+apply: https://forms.gle/YrQLQmojS7r35GZM6
 active: true
-summary: "REZERVIRAJTE TERMIN: 6. - 9. december 2023"
+summary: "Sprejemamo prijave: 6. - 9. december 2023"
 ---
 
 ## Vabilo na regato
@@ -20,14 +23,14 @@ Na kratko:
 4. Startnina (bo določena kasneje) se v celoti porabi za družabne dogodke in darila za udeležence.
 5. Razglasitev rezultatov in podelitev prehodnih pokalov XXXV. PBJ 2023 bo v **soboto 9. 12. 2023 v Vrsarju**.
 
-### Predhodna najava in dodatne informacije
-Predhodno najavo udeležbe in dodatna vprašanja lahko posredujete na naslov [pb.jadranje@gmail.com](mailto:pb.jadranje@gmail.com)
+### Dodatne informacije
+Dodatna vprašanja lahko posredujete na naslov [pb.jadranje@gmail.com](mailto:pb.jadranje@gmail.com)
 
 ### Pripravljalni odbor
+- Albin Trobec
+- Gregor Čampa
+- Igor Perc
+- Igor Žerjav
 - Luka Renko
 - Roman Trobec
-- Igor Perc
-- Gregor Čampa
-- Albin Trobec
 - Vlado Kranjc
-- Matjaž France
