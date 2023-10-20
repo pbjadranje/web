@@ -35,6 +35,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("styles");
     eleventyConfig.addPassthroughCopy("assets");
     eleventyConfig.addPassthroughCopy("code");
+    eleventyConfig.addPassthroughCopy({ "assets/favicon" : "/" });
 
     eleventyConfig.addAsyncShortcode("image", imageShortcode)
 
