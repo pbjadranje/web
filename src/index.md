@@ -54,7 +54,7 @@ V začetku nismo imeli začrtane poti in smo pluli dva dni in dve noči proti ju
 
 Da bi dogodek naredili bolj zanimiv, smo uvedli regatne etape in sistem tekmovanja, ki je zasnovan tako, da s faktorji izenačuje jadrnice najrazličnejših tipov.
 
-Sedaj se na Predbožičnem jadranju srečujemo ljubitelji morja, da bi ga občutili tudi v zimskih razmerah in preskusili svoje jadralno znanje in opremo. Na koncu se soboto popoldne se zberemo na zaključini razglasitvi rezultatov in podelitvi pokalov, v nedeljo pa je čas za vrnitev v matično marino.
+Sedaj se na Predbožičnem jadranju srečujemo ljubitelji morja, da bi ga občutili tudi v zimskih razmerah in preskusili svoje jadralno znanje in opremo. Na koncu se v soboto popoldne zberemo na zaključini razglasitvi rezultatov in podelitvi pokalov, v nedeljo pa je čas za vrnitev v matično marino.
 
 
 <h2 class="!mb-gap">{% block title %}Predbožična jadranja{% endblock %}</h2>
