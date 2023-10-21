@@ -24,7 +24,9 @@
     <meta property="og:type" content="article">
     <meta property="og:description" content="{{ summary }}">
     <meta property="og:site_name" content="Predbožično jadranje - PBJ">
-    {% if image %}
+    {% if true %}
+        <meta property="og:image" content="{{ site.baseurl }}/assets/pbj-cfc8b925.jpg">
+    {% elsif image %}
         <meta property="og:image" content="{{ image }}">
     {% elsif logo %}
         <meta property="og:image" content="{{ logo }}">
@@ -46,7 +48,7 @@
         {% endblock %}
     </main>
 
-    <footer class="bg-primary text-white py-4">
+    <footer class="bg-primary text-white py-4 mt-4">
         <div class="container mx-auto px-4">
           <div class="flex flex-col md:flex-row justify-between items-center">
             <div class="mb-2 md:mb-0">
