@@ -17,6 +17,7 @@ async function imageShortcode(src, alt, sizes) {
     let imageAttributes = {
         alt,
         sizes,
+        class: "w-full rounded-lg shadow-lg",
         loading: "lazy",
         decoding: "async",
     }
