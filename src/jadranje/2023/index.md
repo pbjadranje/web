@@ -6,6 +6,7 @@ logo: /assets/logo/logo-pbj-2023.png
 nor: https://drive.google.com/file/d/1V6nsVgpmDRP_jsfj0PnwDJL-VqM-HXK2/view?usp=sharing
 rules: https://drive.google.com/file/d/1obPQfzB737Yzy8_080TQ5BTCg_CCGQt6/view?usp=sharing
 apply: https://forms.gle/YrQLQmojS7r35GZM6
+attendees: prijave/index.html
 active: true
 summary: "Sprejemamo prijave: 6. - 9. december 2023"
 ---
