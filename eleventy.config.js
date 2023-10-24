@@ -33,6 +33,7 @@ module.exports = function(eleventyConfig) {
     });
 
     // Pass-through files
+    eleventyConfig.addPassthroughCopy("public");
     eleventyConfig.addPassthroughCopy("styles");
     eleventyConfig.addPassthroughCopy("assets");
     eleventyConfig.addPassthroughCopy("code");
