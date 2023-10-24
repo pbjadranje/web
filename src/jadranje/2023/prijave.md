@@ -10,3 +10,4 @@ summary: "Prijavljene jadrnice"
 | Fado          | Salona 37         | Igor Žerjav       |   ?   |
 | Layla         | Triplast Y-40     | Miran Jelovšek    |   6   |
 | Sir Francis   | Elan 31 S         | Milan Gladek      |   4   |
+| Electra       | Aquavit 355       | Albin Trobec      |   3+  |
