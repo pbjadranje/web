@@ -11,4 +11,4 @@ summary: "Prijavljene jadrnice"
 | Layla         | Triplast Y-40     | Miran Jelovšek    |   6   |
 | Sir Francis   | Elan 31 S         | Milan Gladek      |   4   |
 | Electra       | Aquavit 355       | Albin Trobec      |   3+  |
-| Lunga         | Elan 36           | Gregor Čampa      |   4   |
+| Lunga         | Elan 36           | Čampa/Božič       |   4   |
