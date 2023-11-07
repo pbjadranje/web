@@ -12,3 +12,4 @@ summary: "Prijavljene jadrnice"
 | Sir Francis   | Elan 31 S         | Milan Gladek      |   4   |
 | Electra       | Aquavit 355       | Albin Trobec      |   3+  |
 | Lunga         | Elan 36           | Čampa/Božič       |   4   |
+| Norika        | JustinTen         | Vlado Franinović  |   4-5 |
