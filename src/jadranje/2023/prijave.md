@@ -1,6 +1,7 @@
 ---
 title: XXXV. Predbožično jadranje 2023
 summary: "Prijavljene jadrnice"
+eleventyExcludeFromCollections: true
 ---
 
 | #  | Jadrnica      | Model             | Skiper            | Oseb  |
