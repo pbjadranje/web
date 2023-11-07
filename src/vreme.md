@@ -19,11 +19,11 @@ Vreme je ključno za izvedbo Predbožičnega jadranja. Zato že pripravljani odb
 | Premuda/Silba  | [W](https://www.windy.com/44.343/14.600?44.118,14.599,9) | [WC](https://www.windy.com/multimodel/44.343/14.600?44.118,14.599,9) | [MM](https://www.meteoblue.com/en/weather/forecast/multimodel/otok-premuda_croatia_3186235) | [Yr](https://www.yr.no/en/forecast/graph/2-3192521/Croatia/County%20of%20Zadar/Town%20of%20Zadar/Premuda) | [3d](https://meteo.hr/prognoze.php?Code=Silba&id=prognoza&section=prognoze_model&param=3d) |
 
 ## Uporabni viri
- * [vreme.arso.gov.si](https://vreme.arso.gov.si/) - portal Agencije RS za okolje - ARSO Vreme
- * [meteo.hr](https://meteo.hr/) - hrvaški državni hidrometerološki zavod (DHMZ)
  * [Istra in Kvarner](https://meteo.hr/prognoze.php?section=prognoze_model&param=prog_nauticari&el=sj_jadran) - Aladin napoved (DHMZ)
- * [Windy](https://www.windy.com/) - najbolj uporabna aplikacija za vreme - ECMWF, ICON-D2, AROME napovedi
+ * [meteo.hr](https://meteo.hr/) - hrvaški državni hidrometerološki zavod (DHMZ)
+ * [vreme.arso.gov.si](https://vreme.arso.gov.si/) - portal Agencije RS za okolje - ARSO Vreme
  * [Zaladin](https://zaladin.razor.si/) - Aladin (ARSO) napovedi v telefonu prijazni obliki
+ * [Windy](https://www.windy.com/) - najbolj uporabna aplikacija za vreme - ECMWF, ICON-D2, AROME napovedi
  * [Vetercek.com](https://vetercek.com/) - surferski podatki iz neodvisnih vremenskih postaj v Istri, Kvarnerju, Italiji...
  * [VremeRadar.si](https://www.vremeradar.si/) - vremenski radar
  * [Seznam aplikacij za vreme - pojalabanda.com](https://forum.pojalabanda.com/t/vreme-aplikacije-in-spletne-strani/61)
