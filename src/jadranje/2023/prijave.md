@@ -14,3 +14,4 @@ eleventyExcludeFromCollections: true
 | 6. | Electra       | Aquavit 355       | Albin Trobec      |   3+  |
 | 7. | Lunga         | Elan 36           | Čampa/Božič       |   4   |
 | 8. | Norika        | JustinTen         | Vlado Franinović  |   4-5 |
+| 9. | Trma          | Elan 333          | Kristjan Benedik  |   4   |
