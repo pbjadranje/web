@@ -29,10 +29,4 @@ Na kratko:
 Dodatna vprašanja lahko posredujete na naslov [pb.jadranje@gmail.com](mailto:pb.jadranje@gmail.com)
 
 ### Pripravljalni odbor
-- Albin Trobec
-- Gregor Čampa
-- Igor Perc
-- Igor Žerjav
-- Luka Renko
-- Roman Trobec
-- Vlado Kranjc
+Albin Trobec, Gregor Čampa, Igor Perc, Igor Žerjav, Luka Renko, Roman Trobec in Vlado Kranjc.
