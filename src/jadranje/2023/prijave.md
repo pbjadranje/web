@@ -16,3 +16,5 @@ eleventyExcludeFromCollections: true
 | 8. | Norika        | JustinTen         | Vlado Franinović  |   4-5 |
 | 9. | Trma          | Elan 333          | Kristjan Benedik  |   4   |
 | 10.| Janina        | Elan 295          | Tadej Mali        |   3-4 |
+
+Nazaj na [PBJ 2023](/jadranje/2023/)
