@@ -9,7 +9,7 @@ apply: https://forms.gle/YrQLQmojS7r35GZM6
 weather: /vreme/
 attendees: prijave/
 active: true
-summary: "Od 6. do 9. decembera 2023 - sprejemamo prijave."
+summary: "Od 6. do 9. decembra 2023 - sprejemamo prijave."
 ---
 
 ## Vabilo na regato
