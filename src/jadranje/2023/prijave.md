@@ -15,4 +15,4 @@ eleventyExcludeFromCollections: true
 | 7. | Lunga         | Elan 36           | Čampa/Božič       |   4   |
 | 8. | Norika        | JustinTen         | Vlado Franinović  |   4-5 |
 | 9. | Trma          | Elan 333          | Kristjan Benedik  |   4   |
-| 10.| Janina        | Elan 295          | Kristjan Benedik  |   3-4 |
+| 10.| Janina        | Elan 295          | Tadej Mali        |   3-4 |
