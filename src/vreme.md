@@ -22,6 +22,8 @@ Vreme je ključno za izvedbo Predbožičnega jadranja. Zato že pripravljani odb
  * [vreme.pojalabanda.com](https://vreme.pojalabanda.com/) - Aladin (DHMZ) napovedi v telefonu prijazni obliki
    * [Istra in Kvarner](https://vreme.pojalabanda.com/adriatic-north) - Aladin (DHMZ) napoved za Severni Jadran
  * [meteo.hr](https://meteo.hr/) - hrvaški državni hidrometerološki zavod (DHMZ)
+   * [Napoved za Jadran za navtike](https://meteo.hr/prognoze.php?section=prognoze_specp&param=jadran)
+   * [Napoved za pomorce (NAVTEX)](https://meteo.hr/prognoze.php?section=prognoze_specp&param=pomorci)
  * [www.vreme.si](https://www.vreme.si/) - portal Agencije RS za okolje - ARSO Vreme
    * [Zaladin](https://zaladin.razor.si/) - Aladin (ARSO) napovedi v telefonu prijazni obliki
  * [Windy](https://www.windy.com/) - najbolj uporabna aplikacija za vreme - ECMWF, ICON-D2, AROME napovedi
