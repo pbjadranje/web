@@ -1,3 +1,4 @@
 {
-    "baseurl": "https://pbj.pojalabanda.com"
+  "host": "pbj.pojalabanda.com",
+  "baseurl": "https://pbj.pojalabanda.com"
   }
