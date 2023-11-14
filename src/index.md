@@ -12,8 +12,6 @@ summary: "Na Predbožičnem jadranju se srečujemo jadralci, ki tudi v zimskih r
 {{ summary }}
 </div>
 
-<img src="{{ image }}" alt="{{ title }}" class="w-full rounded-lg shadow-lg">
-
 {% for jadranje in collections.jadranje reversed %}
     {% if jadranje.data.active %}
         <h2 class="!mb-gap">{% block title %}Aktualno: {{ jadranje.data.title }} {{ jadranje.data.year }} {% endblock %}</h2>
@@ -43,6 +41,7 @@ summary: "Na Predbožičnem jadranju se srečujemo jadralci, ki tudi v zimskih r
     {% endif %}
 {% endfor %}
 
+<img src="{{ image }}" alt="{{ title }}" class="w-full rounded-lg shadow-lg">
 
 <h2 class="!mb-gap">{% block title %}Zimsko jadranje po Jadranu!?{% endblock %}</h2>
 
@@ -60,36 +59,7 @@ Sedaj se na Predbožičnem jadranju srečujemo ljubitelji morja, da bi ga občut
 
 <h2 class="!mb-gap">{% block title %}Predbožična jadranja{% endblock %}</h2>
 
-<table class="min-w-full border-collapse">
-    <thead>
-        <tr>
-            <th class="text-left w-1/3">Jadranje</th>
-            <th class="text-center">Leto</th>
-            <th class="text-center">Jadrnic</th>
-            <th class="text-center">Zmagovalec: generalno</th>
-            <th class="text-center">Zmagovalec: korigirano</th>
-        </tr>
-    </thead>
-    <tbody>
-        {% for jadranje in collections.jadranje reversed %}
-            <tr>
-                <td class="text-left"><a href="{{ jadranje.url }}" class="no-underline border-b-2 border-link hover:bg-link-hover"> {{ jadranje.data.title }} </a></td>
-                <td class="text-center">{{ jadranje.data.year }}</td>
-                <td class="text-center">{{ jadranje.data.boats }}</td>
-                <td class="text-center">
-                    {% if jadranje.data.active %}
-                        MOŽNA PRIJAVA
-                    {% elsif jadranje.data.cancelled %}
-                        ODPOVEDANO
-                    {% else %}
-                        {{ jadranje.data.winner_abs }}
-                    {% endif %}
-                </td>
-                <td class="text-center">{{ jadranje.data.winner_cor }}</td>
-            </tr>
-        {% endfor %}
-    </tbody>
-</table>
+{% include 'table-pbj' %}
 
 <h2 class="!mb-gap">{% block title %}Začetki jadranja{% endblock %}</h2>
 
