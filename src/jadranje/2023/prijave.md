@@ -18,3 +18,4 @@ eleventyExcludeFromCollections: true
 | 9. | Trma          | Elan 333          | Kristjan Benedik  |   4   |
 | 10.| Janina        | Elan 295          | Tadej Mali        |   3-4 |
 | 11.| 2Krigla       | Salona 37         | Rok Volk          |   3-4 |
+| 12.| GaLa          | Bavaria 37        | Igor Perc         |   4   |
