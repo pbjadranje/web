@@ -101,41 +101,47 @@ layout: base.html
 </div>
 {% endblock %}
 
-{% assign jIndex = -1 %}
-{% for item in collections.jadranje %}
-    {% if item.url == page.url %}
-        {% assign jIndex = forloop.index0 %}
-        {% break %}
+{% if eleventyExcludeFromCollections %}
+    {% assign prevU = "/jadranje/" | append: year | append: "/" %}
+    {% assign prevY = year %}
+{% else %}
+    {% assign jIndex = -1 %}
+    {% for item in collections.jadranje %}
+        {% if item.url == page.url %}
+            {% assign jIndex = forloop.index0 %}
+            {% break %}
+        {% endif %}
+    {% endfor %}
+
+    {% if jIndex > 0 %}
+        {% assign pIdx = jIndex | minus: 1 %}
+        {% assign prevU = collections.jadranje[pIdx].url %}
+        {% assign prevY = collections.jadranje[pIdx].data.url %}
     {% endif %}
-{% endfor %}
 
-
-{% if jIndex > 0 %}
-    {% assign pIdx = jIndex | minus: 1 %}
-    {% assign prevJ = collections.jadranje[pIdx] %}
-{% endif %}
-
-{% assign maxIdx = collections.jadranje | size | minus: 1 %}
-{% if jIndex < maxIdx %}
-    {% assign nIdx = jIndex | plus: 1 %}
-    {% assign nextJ = collections.jadranje[nIdx] %}
+    {% assign maxIdx = collections.jadranje | size | minus: 1 %}
+    {% if jIndex < maxIdx %}
+        {% assign nIdx = jIndex | plus: 1 %}
+        {% assign nextU = collections.jadranje[nIdx].url %}
+        {% assign nextY = collections.jadranje[nIdx].data.year %}
+    {% endif %}
 {% endif %}
 
 
 <nav class="mt-10 bg-gray-100 border-t border-gray-300">
     <div class="container mx-auto px-4 py-4">
         <div class="flex flex-row justify-between items-center">
-            {% if prevJ %}
-                <span><a href="{{ prevJ.url }}" class="no-underline border-b-2 border-link hover:bg-link-hover">&larr; PBJ {{ prevJ.data.year }}</a></span>
-            {% else %}
-                <span> </span>
-            {% endif %}
-                <span><a href="/" class="no-underline border-b-2 border-link hover:bg-link-hover">≡ Domov</a></span>
-            {% if nextJ %}
-                <span><a href="{{ nextJ.url }}" class="no-underline border-b-2 border-link hover:bg-link-hover">PBJ {{ nextJ.data.year }} &rarr;</a></span>
-            {% else %}
-                <span> </span>
-            {% endif %}
+                {% if prevU %}
+                    <span><a href="{{ prevU }}" class="no-underline border-b-2 border-link hover:bg-link-hover">&larr; PBJ {{ prevY }}</a></span>
+                {% else %}
+                    <span> </span>
+                {% endif %}
+                    <span><a href="/" class="no-underline border-b-2 border-link hover:bg-link-hover">≡ Domov</a></span>
+                {% if nextU %}
+                    <span><a href="{{ nextU }}" class="no-underline border-b-2 border-link hover:bg-link-hover">PBJ {{ nextY }} &rarr;</a></span>
+                {% else %}
+                    <span> </span>
+                {% endif %}
         </div>
     </div>
 </nav>
