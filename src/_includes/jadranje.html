@@ -116,7 +116,7 @@ layout: base.html
     {% if jIndex > 0 %}
         {% assign pIdx = jIndex | minus: 1 %}
         {% assign prevU = collections.jadranje[pIdx].url %}
-        {% assign prevY = collections.jadranje[pIdx].data.url %}
+        {% assign prevY = collections.jadranje[pIdx].data.year %}
     {% endif %}
 
     {% assign maxIdx = collections.jadranje | size | minus: 1 %}
