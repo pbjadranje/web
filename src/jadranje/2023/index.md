@@ -3,8 +3,8 @@ title: XXXV. Predbožično jadranje
 date: 2023-12-06
 year: 2023
 logo: /assets/logo/logo-pbj-2023.png
-nor: https://drive.google.com/file/d/1V6nsVgpmDRP_jsfj0PnwDJL-VqM-HXK2/view?usp=sharing
-rules: https://drive.google.com/file/d/1obPQfzB737Yzy8_080TQ5BTCg_CCGQt6/view?usp=sharing
+nor: /assets/2023/Program-osnutek-PBJ-2023.pdf
+rules: /assets/2023/Pravila-PBJ-2023.pdf
 apply: https://forms.gle/YrQLQmojS7r35GZM6
 weather: /vreme/
 attendees: prijave/
