@@ -9,7 +9,9 @@ apply: https://forms.gle/YrQLQmojS7r35GZM6
 weather: /vreme/
 attendees: prijave/
 active: true
-summary: "Od 6. do 9. decembra 2023 - sprejemamo prijave."
+summary: "Od 6. do 9. decembra 2023 - 12 prijavljenih jadrnic, še vedno sprejemamo prijave."
+sponsors:
+    - marina-vrsar
 ---
 
 ## Vabilo na regato
