@@ -1,0 +1,7 @@
+<div id="route-{{ route }}" class="carousel">
+  {% for image in collections[route] %}
+    <div class="carousel-slide">
+      <img src="{{ image.url }}" alt="{{ image.name }}">
+    </div>
+  {% endfor %}
+</div>

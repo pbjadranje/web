@@ -27,7 +27,42 @@ async function imageShortcode(src, alt, sizes) {
     })
 }
 
+function isYearDir(dirName) {
+  return /^\d{4}$/.test(dirName);
+}
+
+function isOptionDir(dirName) {
+  return /^[a-z0-9]+$/.test(dirName);
+}
+
 module.exports = function(eleventyConfig) {
+    const baseDir = "public/assets";
+    const potentialYears = fs.readdirSync(baseDir);
+
+    potentialYears.forEach(year => {
+      if (isYearDir(year)) {
+        const yearPath = path.join(baseDir, year);
+        const potentialOption = fs.readdirSync(yearPath);
+
+        potentialOption.forEach(option => {
+          if (isOptionDir(option)) {
+            const collectionName = `${year}_${option}`;
+            const imagesPath = path.join(yearPath, option);
+            const imageFiles = fs.readdirSync(imagesPath).filter(fileName => {
+              return fs.statSync(path.join(imagesPath, fileName)).isFile() && path.extname(fileName).toLowerCase() === ".png";
+            });
+
+            eleventyConfig.addCollection(collectionName, function(collectionApi) {
+              return imageFiles.map(fileName => ({
+                url: path.join("/", imagesPath, fileName),
+                name: fileName
+              })).sort(); // Sort lexicographically, if needed
+            });
+          }
+        });
+      }
+    });
+
     eleventyConfig.addPlugin(VitePlugin, {
         // Any plugin options can go here
     });

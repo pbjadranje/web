@@ -8,11 +8,13 @@ eleventyExcludeFromCollections: true
 ## Plan A: čez Kvarner
 ### Vrsar - Ilovik
 Start: sreda, 6.12. ob 21h
-![image](/assets/2023/1129-01-vrsar-ilovik.png)
+
+{% include 'weather-route', route: '2023_a1' %}
 
 ### Ilovik - Pula
 Start: petek, 8.12. ob 9h
-![image](/assets/2023/1129-02-ilovik-pula.png)
+
+{% include 'weather-route', route: '2023_a2' %}
 
 ### Pula - Vrsar
 Start: sobota, 9.12. ob 9h
