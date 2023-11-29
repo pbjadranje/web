@@ -14,8 +14,9 @@ eleventyExcludeFromCollections: true
 | 5. | Sir Francis   | Elan 31 S         | Milan Gladek      |   4   |
 | 6. | Electra       | Aquavit 355       | Albin Trobec      |   3+  |
 | 7. | Lunga         | Elan 36           | Čampa/Božič       |   4   |
-| 8. | Norika        | JustinTen         | Vlado Franinović  |   4-5 |
+| 8. | <del>Norika</del>| <del>JustinTen</del> | ODPOVEDANO  |       |
 | 9. | Trma          | Elan 333          | Kristjan Benedik  |   4   |
 | 10.| Janina        | Elan 295          | Tadej Mali        |   3-4 |
 | 11.| 2Krigla       | Salona 37         | Rok Volk          |   3-4 |
 | 12.| GaLa          | Bavaria 37        | Igor Perc         |   4   |
+| 13.| Jagoda        | Mini 650          | Jaka Grčar        |   2   |
