@@ -6,12 +6,13 @@ logo: /assets/logo/logo-pbj-2023.png
 nor: /assets/2023/Program-osnutek-PBJ-2023.pdf
 rules: /assets/2023/Pravila-PBJ-2023.pdf
 apply: https://forms.gle/YrQLQmojS7r35GZM6
-weather: /vreme/
+weather: vreme/
 attendees: prijave/
 active: true
 summary: "Od 6. do 9. decembra 2023 - 12 prijavljenih jadrnic, še vedno sprejemamo prijave."
 sponsors:
     - marina-vrsar
+    - pego-plus
 ---
 
 ## Vabilo na regato
