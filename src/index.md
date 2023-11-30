@@ -55,7 +55,7 @@ Da bi dogodek naredili bolj zanimiv, smo uvedli regatne etape in sistem tekmovan
 
 Sedaj se na Predbožičnem jadranju srečujemo ljubitelji morja, da bi ga občutili tudi v zimskih razmerah in preskusili svoje jadralno znanje in opremo. Na koncu se v soboto popoldne zberemo na zaključni razglasitvi rezultatov in podelitvi pokalov, v nedeljo pa je čas za vrnitev v matično marino.
 
-<a href="vreme/index.html">Vreme in napovedi</a>
+<a href="vreme/index.html" class="no-underline border-b-2 border-link hover:bg-link-hover">Vreme in napovedi</a>
 
 <h2 class="!mb-gap">{% block title %}Predbožična jadranja{% endblock %}</h2>
 
