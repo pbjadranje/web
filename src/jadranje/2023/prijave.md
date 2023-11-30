@@ -20,3 +20,4 @@ eleventyExcludeFromCollections: true
 | 11.| 2Krigla       | Salona 37         | Rok Volk          |   3-4 |
 | 12.| GaLa          | Bavaria 37        | Igor Perc         |   4   |
 | 13.| Jagoda        | Mini 650          | Jaka Grčar        |   2   |
+| 14.| Prazničen dan | Pogo 850          | Emil Kozamernik   |   2   |
