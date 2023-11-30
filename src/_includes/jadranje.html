@@ -5,10 +5,12 @@ layout: base.html
 <div class="prose lg:prose-lg prose-neutral mx-auto px-gap prose-headings:font-sans prose-headings:font-bold">
     <h1 class="!mb-gap">{% block title %}{{ title }} {{ year }}{% endblock %}</h1>
 
-    {% block lead %}{% endblock %}
-    <div class="lead">
-    {{ summary }}
-    </div>
+    {% if summary %}
+        {% block lead %}{% endblock %}
+        <div class="lead">
+        {{ summary }}
+        </div>
+    {% endif %}
 
     {% if image %}
         <img src="{{ image }}" alt="{{ title }}" class="w-full rounded-lg shadow-lg">

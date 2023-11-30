@@ -54,9 +54,9 @@ module.exports = function(eleventyConfig) {
 
             eleventyConfig.addCollection(collectionName, function(collectionApi) {
               return imageFiles.map(fileName => ({
-                url: path.join("/", imagesPath, fileName),
-                name: fileName
-              })).sort(); // Sort lexicographically, if needed
+                url: path.join(imagesPath.replace("public", ""), fileName),
+                name: fileName.replace(".png", "")
+              })).sort();
             });
           }
         });
