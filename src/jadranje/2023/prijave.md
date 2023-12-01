@@ -1,5 +1,5 @@
 ---
-title: XXXV. Predbožično jadranje
+title: Prijave - PBJ
 summary: "Prijavljene jadrnice"
 year: 2023
 eleventyExcludeFromCollections: true

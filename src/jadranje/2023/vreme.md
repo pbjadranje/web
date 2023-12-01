@@ -1,5 +1,5 @@
 ---
-title: XXXV. Predbožično jadranje
+title: Vremenska napoved - PBJ
 year: 2023
 image: /assets/2023/a1/2023-12-01-00Z.png
 eleventyExcludeFromCollections: true
