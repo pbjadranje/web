@@ -14,7 +14,7 @@ summary: "Na Predbožičnem jadranju se srečujemo jadralci, ki tudi v zimskih r
 
 {% for jadranje in collections.jadranje reversed %}
     {% if jadranje.data.active %}
-        <h2 class="!mb-gap">{% block title %}Aktualno: {{ jadranje.data.title }} {{ jadranje.data.year }} {% endblock %}</h2>
+        <h2 class="!mb-gap">{% block title %}Aktualno: <a href="{{ jadranje.url }}" class="font-sans font-semibold no-underline border-b-2 border-link hover:bg-link-hover">{{ jadranje.data.title }} {{ jadranje.data.year }} {% endblock %}</a></h2>
 
         {% block lead %}{% endblock %}
 
