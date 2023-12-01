@@ -2,7 +2,7 @@
 title: Predbožično jadranje
 layout: base.html
 image: /assets/pbj.jpg
-summary: "Na Predbožičnem jadranju se srečujemo jadralci, ki tudi v zimskih razmerah radi preskusimo svoje jadralno znanje in opremo. Jadranje se začne z nočnim jadranjem iz Istre čez Kvarner, v naslednjih dneh pa se vračamo nazaj v Istro."
+summary: "Na Predbožičnem jadranju (PBJ) se srečujemo jadralci, ki tudi v zimskih razmerah radi preskusimo svoje jadralno znanje in opremo. Jadranje se začne z nočnim jadranjem iz Istre čez Kvarner, v naslednjih dneh pa se vračamo nazaj v Istro."
 ---
 
 <h1 class="!mb-gap">{% block title %}{{ title }}{% endblock %}</h1>
@@ -14,7 +14,7 @@ summary: "Na Predbožičnem jadranju se srečujemo jadralci, ki tudi v zimskih r
 
 {% for jadranje in collections.jadranje reversed %}
     {% if jadranje.data.active %}
-        <h2 class="!mb-gap">{% block title %}Aktualno: <a href="{{ jadranje.url }}" class="font-sans font-semibold no-underline border-b-2 border-link hover:bg-link-hover">{{ jadranje.data.title }} {{ jadranje.data.year }} {% endblock %}</a></h2>
+        <h2 class="!mb-gap">{% block title %}Aktualno: <a href="{{ jadranje.url }}" class="font-sans font-semibold no-underline border-b-2 border-link hover:bg-link-hover">{{ jadranje.data.title }} - PBJ {{ jadranje.data.year }} {% endblock %}</a></h2>
 
         {% block lead %}{% endblock %}
 
