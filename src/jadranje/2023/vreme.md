@@ -18,4 +18,4 @@ eleventyExcludeFromCollections: true
 ## Plan B: ob Istri
 _Se bo v primeru neprimernega vremena določil kasneje..._
 
-Povezava na strani za <a href="/vreme/" class="no-underline border-b-2 border-link hover:bg-link-hover">vreme in napovedi</a>.
+Povezava na stran za <a href="/vreme/" class="no-underline border-b-2 border-link hover:bg-link-hover">vreme in napovedi</a>.
