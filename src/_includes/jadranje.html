@@ -3,7 +3,7 @@ layout: base.html
 ---
 {% block content %}
 <div class="prose lg:prose-lg prose-neutral mx-auto px-gap prose-headings:font-sans prose-headings:font-bold">
-    <h1 class="!mb-gap">{% block title %}{{ title }} {{ year }}{% endblock %}</h1>
+    <h1 class="!mb-gap">{% block title %}{{ title }} - PBJ {{ year }}{% endblock %}</h1>
 
     {% if summary %}
         {% block lead %}{% endblock %}
@@ -12,18 +12,18 @@ layout: base.html
         </div>
     {% endif %}
 
-    {% if image %}
+    {% if image and eleventyExcludeFromCollections != true %}
         <img src="{{ image }}" alt="{{ title }}" class="w-full rounded-lg shadow-lg">
     {% endif %}
 
     {% if logo and nor %}
         <div class="flex flex-col md:flex-row items-center justify-between">
             <div class="w-full md:w-1/3 p-4">
-                <img src="{{ logo }}" alt="{{ title }}" width="300">
+                <img src="{{ logo }}" alt="{{ title }} - PBJ {{ year }}" width="300">
             </div>
             <div class="w-full md:w-2/3 p-4">
     {% elsif logo %}
-        <img src="{{ logo }}" alt="{{ title }}" width="300">
+        <img src="{{ logo }}" alt="{{ title }} - PBJ {{ year }}" width="300">
     {% endif %}
 
                 {% if results or winner_abs or winner_cor %}

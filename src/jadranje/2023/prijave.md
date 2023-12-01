@@ -1,5 +1,5 @@
 ---
-title: Prijave - PBJ
+title: Prijave
 summary: "Prijavljene jadrnice"
 year: 2023
 eleventyExcludeFromCollections: true

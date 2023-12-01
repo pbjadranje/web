@@ -1,8 +1,8 @@
 <div id="forecast-{{ route }}" class="forecast">
     {% for image in collections[route] %}
         <div class="forecast-image relative">
-            <img src="{{ image.url }}" alt="{{ image.name }}" class="w-full h-auto">
-            <div class="absolute top-0 right-0 bg-black bg-opacity-50 text-white p-2 text-sm">
+            <img src="{{ image.url }}" alt="{{ image.name }}" class="w-full h-auto rounded-lg shadow-lg">
+            <div class="absolute top-0 right-0 bg-black bg-opacity-50 text-white p-2 text-sm rounded-lg">
                 {{ image.name }}
             </div>
         </div>
