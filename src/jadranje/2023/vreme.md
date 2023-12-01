@@ -1,6 +1,7 @@
 ---
 title: XXXV. Predbožično jadranje
 year: 2023
+image: /assets/2023/a1/2023-12-01-00Z.png
 eleventyExcludeFromCollections: true
 ---
 {% include 'weather-nav', route: '2023_a1' %}

@@ -24,12 +24,10 @@
     <meta property="og:type" content="article">
     <meta property="og:description" content="{{ summary }}">
     <meta property="og:site_name" content="Predbožično jadranje - PBJ - {{site.host}}">
-    {% if true %}
-        <meta property="og:image" content="{{ site.baseurl }}/assets/pbj-cfc8b925.jpg">
-    {% elsif image %}
+    {% if image %}
         <meta property="og:image" content="{{ image }}">
     {% elsif logo %}
-        <meta property="og:image" content="{{ logo }}">
+        <meta property="og:image" content="{{ site.baseurl }}/assets/pbj-cfc8b925.jpg">
     {% endif %}
 </head>
 
