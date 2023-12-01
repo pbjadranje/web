@@ -2,8 +2,8 @@
 title: XXIV. Predbožično jadranje
 date: 2011-12-07
 year: 2011
-logo: /assets/logo/logo-pbj-2011.jpg
-image: /assets/images/pbj-2011.jpg
+logo: /assets/2011/logo-pbj-2011.jpg
+image: /assets/2011/pbj-2011.jpg
 nor: https://drive.google.com/file/d/16RDsp6aEYHLXcL9cVIpIHARGYRNC1FO3/view?usp=sharing
 apply: https://drive.google.com/file/d/1DcaWQNySwE-mf6keeoNhehULxl47ULk4/view?usp=sharing
 attendees: https://drive.google.com/file/d/1IccaBLUCc6OZE92ioBKHsf2qZ_M3A-Pn/view?usp=sharing

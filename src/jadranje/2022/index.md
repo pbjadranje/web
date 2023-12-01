@@ -2,8 +2,8 @@
 title: XXXIV. Predbožično jadranje
 date: 2022-12-07
 year: 2022
-logo: /assets/logo/logo-pbj-2022.jpg
-image: /assets/images/pbj-2022.jpg
+logo: /assets/2022/logo-pbj-2022.jpg
+image: /assets/2022/pbj-2022.jpg
 nor: https://drive.google.com/file/d/1RJ_y32mebHUjw6GRma8lcDXd1_JTlARe/view?usp=sharing
 rules: https://drive.google.com/file/d/1zRz1pmL7qDe8Qxo59rUGQGoizz7QqHW-/view?usp=sharing
 apply: https://drive.google.com/file/d/1R8aWfcZd8-E4tcRc9cBPZdov8ShKw6a7/view?usp=sharing

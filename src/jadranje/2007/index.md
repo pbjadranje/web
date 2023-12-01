@@ -2,8 +2,8 @@
 title: XX. Predbožično jadranje
 date: 2007-12-12
 year: 2007
-logo: /assets/logo/logo-pbj-2007.jpg
-image: /assets/images/pbj-2007.jpg
+logo: /assets/2007/logo-pbj-2007.jpg
+image: /assets/2007/pbj-2007.jpg
 nor: https://drive.google.com/file/d/1i17iO2bomci2ik0Cy9tjRHLQFombScIE/view?usp=sharing
 apply: https://drive.google.com/file/d/1T7S3pCUnePp8zbO_8pd_92xFkC5HBmdZ/view?usp=sharing
 attendees: https://drive.google.com/file/d/1EvW0401DuIuPtHMWZNZ9lJLyr_AtYQW5/view?usp=sharing

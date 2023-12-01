@@ -1,7 +1,7 @@
 ---
-title: Predbožično jadranje - PBJ
+title: Predbožično jadranje
 layout: base.html
-image: /assets/images/pbj.jpg
+image: /assets/pbj.jpg
 summary: "Na Predbožičnem jadranju se srečujemo jadralci, ki tudi v zimskih razmerah radi preskusimo svoje jadralno znanje in opremo. Jadranje se začne z nočnim jadranjem iz Istre čez Kvarner, v naslednjih dneh pa se vračamo nazaj v Istro."
 ---
 

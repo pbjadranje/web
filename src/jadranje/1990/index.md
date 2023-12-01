@@ -2,7 +2,7 @@
 title: III. Predbožično jadranje
 date: 1990-12-19
 year: 1990
-image: /assets/images/pbj-1990.jpg
+image: /assets/1990/pbj-1990.jpg
 nor: https://drive.google.com/file/d/1s7DZrAFVfSV-2BdSlL4cZCRVtMqlCWUi/view?usp=sharing
 results: https://drive.google.com/file/d/1-5hY2ies1lTFE6i1ow6Ipyy3QChtpCxC/view?usp=sharing
 boats: 3

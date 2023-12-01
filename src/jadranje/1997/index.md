@@ -2,7 +2,7 @@
 title: X. Predbožično jadranje
 date: 1997-12-10
 year: 1997
-image: /assets/images/pbj-1997.jpg
+image: /assets/1997/pbj-1997.jpg
 nor: https://drive.google.com/file/d/1E6gLa2rkSxBZnHBZN__JOv6rqf3s46Ek/view?usp=sharing
 attendees: https://drive.google.com/file/d/130PosZcbKI5SPzZE4Lscg5fgIBzpD8JM/view?usp=sharing
 results: https://drive.google.com/file/d/1pqnLIqkVhiGORl8cEXEmFKYRx0ZhSuYb/view?usp=sharing

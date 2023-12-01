@@ -2,7 +2,7 @@
 title: XVII. Predbožično jadranje
 date: 2004-12-01
 year: 2004
-image: /assets/images/pbj-2004.jpg
+image: /assets/2004/pbj-2004.jpg
 nor: https://drive.google.com/file/d/1K_gyznoLDEPdmDYAMdaRFQPOxShMIYVf/view?usp=sharing
 attendees: https://drive.google.com/file/d/1YGNy21loxnXEFPAv6CK6n8t9fOJbYROf/view?usp=sharing
 results: https://drive.google.com/file/d/1hj5upq3Yjb9yJhsl0ABKa5UlAYuENV2N/view?usp=sharing

@@ -2,7 +2,7 @@
 title: XXI. Predbožično jadranje
 date: 2008-12-03
 year: 2008
-logo: /assets/logo/logo-pbj-2008.jpg
+logo: /assets/2008/logo-pbj-2008.jpg
 nor: https://drive.google.com/file/d/1JwYjT93D0Vv_hoaaeKUjt9vuIPjVVZjQ/view?usp=sharing
 apply: https://drive.google.com/file/d/1R-Qx_cwr4lQ_vssLha7F5TREz32-TOpP/view?usp=sharing
 attendees: https://drive.google.com/file/d/1rUhY2j2HJ-oPLfaWXEum8zAmHZlargvc/view?usp=sharing
