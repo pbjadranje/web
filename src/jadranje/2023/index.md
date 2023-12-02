@@ -29,7 +29,7 @@ Na kratko:
 5. Razglasitev rezultatov in podelitev prehodnih pokalov XXXV. PBJ 2023 bo v **soboto 9. 12. 2023 v Vrsarju**.
 
 ### Dodatne informacije
-Dodatna vprašanja lahko posredujete na naslov [pb.jadranje@gmail.com](mailto:pb.jadranje@gmail.com)
+Dodatna vprašanja lahko posredujete na naslov <a href="mailto:pb.jadranje@gmail.com" class="no-underline border-b-2 border-link hover:bg-link-hover">pb.jadranje@gmail.com</a>
 
 ### Pripravljalni odbor
 Albin Trobec, Gregor Čampa, Igor Perc, Igor Žerjav, Luka Renko, Roman Trobec in Vlado Kranjc.
