@@ -4,6 +4,9 @@ year: 2023
 image: /assets/2023/a1/2023-12-02-00Z.png
 eleventyExcludeFromCollections: true
 ---
+{% assign lastForecast = collections[route] | last %}
+{% assign image = lastForecast.url %}
+
 {% include 'weather-nav', route: '2023_a1' %}
 
 ## Plan A: čez Kvarner
