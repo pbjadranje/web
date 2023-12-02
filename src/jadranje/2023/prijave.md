@@ -20,5 +20,4 @@ eleventyExcludeFromCollections: true
 | 11.| GaLa          | Bavaria 37        | Igor Perc         |   4   |
 | 12.| Jagoda        | Mini 650          | Jaka Grčar        |   2   |
 | 13.| Prazničen dan | Pogo 850          | Emil Kozamernik   |   2   |
-|---:|:-------------:|:-----------------:|:-----------------:|:-----:|
 |    | <del>Norika</del>| <del>JustinTen</del> | ODPOVEDANO  |       |
