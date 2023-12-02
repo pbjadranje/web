@@ -7,7 +7,7 @@ results: https://drive.google.com/file/d/1ME8OFkyFS8FC3KhH0NsakVP8Bxd_zEzH/view?
 boats: 12
 winner_abs: Navigator
 winner_cor: Furija 2
-summary: ""
+summary: "10 jadrnic"
 ---
 
 XI. Predbožično jadranje se letos prične v sredo 9. decembra v marini Červar in konča po sedmih etapah v marini Zelena laguna, v soboto 12. decembra 1998.

@@ -9,7 +9,7 @@ results: https://drive.google.com/file/d/1pqnLIqkVhiGORl8cEXEmFKYRx0ZhSuYb/view?
 boats: 11
 winner_abs: Sysen
 winner_cor: Furija 2
-summary: ""
+summary: "11 jadrnic"
 ---
 
 X. Predbožično jadranje se letos prične v sredo 10. decembra v marini Červar in konča po sedmih etapah v marini Zelena laguna, v soboto 13. decembra 1997.

@@ -8,7 +8,7 @@ results: https://drive.google.com/file/d/1BQ_jAM1arSOsskVSwXODIP26z8s-dBd1/view?
 boats: 15
 winner_abs: Elation
 winner_cor: Furija 2
-summary: ""
+summary: "10 jadrnic"
 ---
 
 XII. Predbožično jadranje se letos prične v sredo 8. decembra v marini Červar, se nadaljuje do svetilnika Albanež in od tu ali na Susak ali nazaj na Istrsko obalo. Konča se po šestih (ali petih) etapah v soboto 11. decembra 1999 v Rovinju.
