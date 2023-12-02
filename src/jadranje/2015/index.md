@@ -12,7 +12,7 @@ results: https://drive.google.com/file/d/1_GurBhqpX7upkVLlaKTcPhwWZuKeQ_CM/view?
 boats: 15
 winner_abs: Express Izudin
 winner_cor: Express Izudin
-summary: "15 jadrnic"
+summary: "15 jadrnic, Vrsar - Premuda - Susak - Veruda"
 sponsors:
     - marina-vrsar
 ---

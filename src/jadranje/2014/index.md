@@ -12,7 +12,7 @@ results: https://drive.google.com/file/d/12IUd7K-Lo5M6s0FJtoYmLz8y88xiTFXW/view?
 boats: 10
 winner_abs: Express Izudin
 winner_cor: Fado
-summary: "10 jadrnic"
+summary: "10 jadrnic, Vrsar - Veruda - Susak - Premuda - Fažana"
 sponsors:
     - marina-vrsar
 ---

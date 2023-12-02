@@ -12,7 +12,7 @@ results: https://drive.google.com/file/d/1Xxd71H1tJIW4CH0ADN4xQ3JPDYtBv5tD/view?
 boats: 11
 winner_abs: Express Izudin
 winner_cor: Raca
-summary: "11 jadrnic"
+summary: "11 jadrnic, Vrsar - Susak - Premuda - Veruda"
 sponsors:
     - marina-vrsar
     - socomec-ups

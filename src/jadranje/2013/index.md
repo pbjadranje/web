@@ -12,7 +12,7 @@ results: https://drive.google.com/file/d/1o6-zsikAz9749s3sy5-B31n-uQOxzg9N/view?
 boats: 9
 winner_abs: Electra
 winner_cor: Electra
-summary: "9 jadrnic"
+summary: "9 jadrnic, Vrsar - Susak - Raša"
 sponsors:
     - marina-vrsar
 ---
