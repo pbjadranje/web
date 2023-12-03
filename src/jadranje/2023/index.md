@@ -9,7 +9,7 @@ apply: https://forms.gle/YrQLQmojS7r35GZM6
 weather: vreme/
 attendees: prijave/
 active: true
-summary: "Od 6. do 9. decembra 2023 - 13 prijavljenih jadrnic, dnevno spremljamo vreme in še vedno se lahko prijavite."
+summary: "Od 6. do 9. decembra 2023: 14 prijavljenih jadrnic. Še vedno se lahko prijavite."
 sponsors:
     - marina-vrsar
     - pego-plus
