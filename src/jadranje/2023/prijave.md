@@ -9,7 +9,7 @@ eleventyExcludeFromCollections: true
 |---:|:-------------:|:-----------------:|:-----------------:|:-----:|
 | 1. | Spectrum      | Bavaria Vision 42 | Luka Renko        |   4   |
 | 2. | Sara          | Elan 31 S         | Vlado Kranjc      |   4   |
-| 3. | Fado          | Salona 37         | Igor Žerjav       |   ?   |
+| 3. | Fado          | Salona 37         | Igor Žerjav       |   3   |
 | 4. | Layla         | Triplast Y-40     | Miran Jelovšek    |   6   |
 | 5. | Sir Francis   | Elan 31 S         | Milan Gladek      |   4   |
 | 6. | Electra       | Aquavit 355       | Albin Trobec      |   3+  |
