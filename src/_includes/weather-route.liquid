@@ -5,6 +5,8 @@
             <div class="absolute top-0 right-0 bg-black bg-opacity-50 text-white p-2 text-sm rounded-lg">
                 {{ image.name }}
             </div>
+            <button id="prevButton-{{ route }}" class="forecast-prev left-0 absolute inset-y-0 w-1/5 h-full bg-transparent flex items-center justify-start" aria-label="Previous"><img src="/assets/arrow-left.svg" alt="Previous" class="w-10 lg:w-14"></button>
+            <button id="nextButton-{{ route }}" class="forecast-next right-0 absolute inset-y-0 w-1/5 h-full bg-transparent flex items-center justify-end" aria-label="Next"><img src="/assets/arrow-right.svg" alt="Next" class="w-10 lg:w-14"></button>
         </div>
     {% endfor %}
 </div>
