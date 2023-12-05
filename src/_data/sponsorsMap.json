@@ -40,6 +40,11 @@
     "link": "http://www.pego.si",
     "ext": "jpg"
   },
+  "pojalabanda": {
+    "name": "pojalabanda.com",
+    "link": "https://forum.pojalabanda.com",
+    "ext": "png"
+  },
   "slip-underwatercoat": {
     "name": "Slip UnderWaterCoat",
     "ext": "jpg"

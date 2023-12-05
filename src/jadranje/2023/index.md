@@ -13,6 +13,7 @@ summary: "Od 6. do 9. decembra 2023: objavljen program jadranja."
 sponsors:
     - marina-vrsar
     - pego-plus
+    - pojalabanda
 ---
 
 ## Vabilo na regato
