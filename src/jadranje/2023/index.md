@@ -6,33 +6,28 @@ logo: /assets/2023/logo-pbj-2023.png
 nor: /assets/2023/Program-PBJ-2023.pdf
 rules: /assets/2023/Pravila-PBJ-2023.pdf
 apply: https://forms.gle/YrQLQmojS7r35GZM6
-weather: vreme/
 attendees: prijave/
-active: true
-summary: "Od 6. do 9. decembra 2023: objavljen program jadranja."
+weather: vreme/
+results: /assets/2023/Rezultati-PBJ-2023.pdf
+boats: 13
+winner_abs: Praznični dan
+winner_cor: Praznični dan
+summary: "Vrsar - Unije - Pulj - Vrsar, 13 jadrnic"
 sponsors:
     - marina-vrsar
     - pego-plus
     - pojalabanda
 ---
 
-## Vabilo na regato
-Ljubitelji morja se bomo srečali na **35. Predbožičnem jadranju - XXXV. PBJ 2023**, da bi tudi v zimskih razmerah spoštovali in občudovali morje ter preskusili svoje jadralno znanje.
+Na skiperskem sestanku je padla odločitev, da zaradi možnosti pomanjkanja vetra skrajšamo naš cilj na Kvarneju in da namesto na Ilovik, jadramo na Unije.
 
-Na kratko:
-1. Sestanek kapitanov v **sredo 6. 12. 2023 ob 19h v marini Vrsar** - pomol E, *start jadranja ob 21h*.
-2. *Kapitani prevzemajo vso odgovornost za svojo posadko in jadrnico in se samostojno odločijo o udeležbi na jadranju*.
-3. Predlog programa jadranja:
- - **sreda 6. 12. 2023 ob 21:00** start nočne etape od Vrsarja do Ilovika.
-   *Samo ob primernih vremenskih pogojih za prečkanje Kvarnerja*.
- - **petek 8. 12. 2023 ob 8:00** je start druge etape iz Ilovika do Pulja.
-   Zvečer ob 19:00 večerja v restavraciji Katarina v marini Polesana.
- - **soboto 9. 12. 2023 ob 10:00** bo start zadnje etape od Pulja do Vrsarja.
-4. **Startnina 40 EUR/osebo** se v celoti porabi za večerjo in priložnostno darilo za udeležence.
-5. Razglasitev rezultatov in podelitev prehodnih pokalov XXXV. PBJ 2023 bo v **soboto 9. 12. 2023 v Vrsarju**.
+Prvo etapo smo iz Vrsarja v zmerni burji jadrali do Porerja, potem pa v močnejši burji do Unij. Na Unijah smo zasedli nov pomol in podvojili smo trenutno prebivalstvo na otoku. Preostali del dneva smo čakali ostale posadke, počivali, debatirali in se družili v BaraBar beach baru.
 
-### Dodatne informacije
-Dodatna vprašanja lahko posredujete na naslov <a href="mailto:pb.jadranje@gmail.com" class="no-underline border-b-2 border-link hover:bg-link-hover">pb.jadranje@gmail.com</a>
+V petek smo imeli start pred Unijami, borbenost pa je bila še na startu tako velika, da so nekateri s kobilico merili globino ob startni oznaki. Vetra je bilo med 5-6vz v krmo, na srečo pa je počasi postajal malo možnejši. Na Kamenjaku je bilo nekaj bližnjih bojev pri prehodu pri Fenoligi in vse jadrnice so v časovni omejitvi prišle do cilja pri valobranu v Puljsko luko. V restavraciji Katarina v novi marini smo imeli dobro večerjo in prijetno druženje.
 
-### Pripravljalni odbor
-Albin Trobec, Gregor Čampa, Igor Perc, Igor Žerjav, Luka Renko, Roman Trobec in Vlado Kranjc.
+V soboto nas je čakala še zadnja etapa iz Pulja do Vrsarja. Startali smo z zelo malo vetra, pol flote se je odločilo za zunanjo, ostali pa za notranjo stran Brijona. Do Svetega Ivana je bilo vetra še dovolj, potem pa ga je začelo zmanjkovati in vedno bolj smo bili prepuščeni valovom in tokovom z minimalno hitrostjo. Kljub temu je na koncu veter malo obrnil in ojačal da je na koncu 9 jadrnic končalo etapo v časovni omejitvi.
+
+Sledila je podelitev na pomolu (tokrat z malo zmede zaradi napake, pir vnosu rezultatov) in pa druženje po barkah in lokalih, nekatere barke pa so se takoj odpravile v svoje matične marine.
+
+## Vtisi
+ - [PBJ 2023 - foto - avtor: Luka Renko](https://photos.app.goo.gl/n5uK15X4xbmQewqg6)
