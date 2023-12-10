@@ -24,11 +24,11 @@ Na skiperskem sestanku je padla odločitev, da zaradi možnosti pomanjkanja vetr
 
 Prvo etapo smo iz Vrsarja v zmerni burji jadrali do Porerja, potem pa v močnejši burji do Unij. Na Unijah smo zasedli nov pomol in podvojili smo trenutno prebivalstvo na otoku. Preostali del dneva smo čakali ostale posadke, počivali, debatirali in se družili v BaraBar beach baru.
 
-V petek smo imeli start pred Unijami, borbenost pa je bila še na startu tako velika, da so nekateri s kobilico merili globino ob startni oznaki. Vetra je bilo med 5-6vz v krmo, na srečo pa je počasi postajal malo možnejši. Na Kamenjaku je bilo nekaj bližnjih bojev pri prehodu pri Fenoligi in vse jadrnice so v časovni omejitvi prišle do cilja pri valobranu v Puljsko luko. V restavraciji Katarina v novi marini smo imeli dobro večerjo in prijetno druženje.
+V petek smo imeli štart pred Unijami, borbenost pa je bila že na štartu tako velika, da so nekateri s kobilico merili globino pri štartni oznaki. Vetra je bilo med 5-6vz v krmo, na srečo pa je počasi postajal malo močnejši. Na Kamenjaku je bilo nekaj bližnjih bojev pri prehodu pri Fenoligi in vse jadrnice so v časovni omejitvi prišle do cilja pri valobranu v Puljsko luko. V restavraciji Katarina v novi marini smo imeli dobro večerjo in prijetno druženje.
 
-V soboto nas je čakala še zadnja etapa iz Pulja do Vrsarja. Startali smo z zelo malo vetra, pol flote se je odločilo za zunanjo, ostali pa za notranjo stran Brijona. Do Svetega Ivana je bilo vetra še dovolj, potem pa ga je začelo zmanjkovati in vedno bolj smo bili prepuščeni valovom in tokovom z minimalno hitrostjo. Kljub temu je na koncu veter malo obrnil in ojačal da je na koncu 9 jadrnic končalo etapo v časovni omejitvi.
+V soboto nas je čakala še zadnja etapa iz Pulja do Vrsarja. Štartali smo z zelo malo vetra, pol flote se je odločilo za zunanjo, ostali pa za notranjo stran Brijona. Do Svetega Ivana je bilo vetra še dovolj, potem pa ga je začelo zmanjkovati in vedno bolj smo bili prepuščeni valovom in tokovom z minimalno hitrostjo. Kljub temu je na koncu veter malo obrnil in ojačal tako da je 9 jadrnic končalo etapo v časovni omejitvi.
 
-Sledila je podelitev na pomolu (tokrat z malo zmede zaradi napake, pir vnosu rezultatov) in pa druženje po barkah in lokalih, nekatere barke pa so se takoj odpravile v svoje matične marine.
+Sledila je podelitev na pomolu (tokrat z malo zmede zaradi napake, pri vnosu rezultatov) in pa druženje po barkah in lokalih, nekatere barke pa so se takoj odpravile v svoje matične marine.
 
 ## Vtisi
  - [PBJ 2023 - foto - avtor: Luka Renko](https://photos.app.goo.gl/n5uK15X4xbmQewqg6)
