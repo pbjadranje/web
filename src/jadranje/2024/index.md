@@ -16,7 +16,7 @@ Na kratko:
  - v primeru ugodnega vremena **jadramo čez Kvarner**,
  - *ob slabem vremenu (jugo) jadramo ob zahodni obali Istre*,
  - v primeru nevarnih razmer pa se jadranju odpovemo.
-4. Startnina (bo določena kasneje) se v celoti porabi za družabne dogodke in darila za udeležence.
+4. Startnina (bo določena kasneje) se v celoti porabi za družabne dogodke za udeležence.
 5. Razglasitev rezultatov in podelitev prehodnih pokalov XXXVI. PBJ 2024 bo v **soboto 7. 12. 2024 v Vrsarju**.
 
 ### Predhodna najava in dodatne informacije
