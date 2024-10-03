@@ -2,6 +2,7 @@
 title: XXXVI. Predbožično jadranje
 date: 2024-12-04
 year: 2024
+logo: /assets/2024/logo-pbj-2024.png
 active: true
 summary: "REZERVIRAJTE TERMIN: 4. - 7. december 2024"
 ---
