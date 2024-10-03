@@ -12,7 +12,7 @@ Ljubitelji morja se bomo srečali na **36. Predbožičnem jadranju - XXXVI. PBJ 
 
 Na kratko:
 1. Sestanek kapitanov v **sredo 4. 12. 2024 ob 19h v marini Vrsar** - pomol E, *start jadranja ob 21h*.
-2. *Kapitani prevzemajo vso odgovornost za svojo posadko in jadrnico in se samostojno odločijo o udeležbi na jadranju*.
+2. *Kapitani prevzemajo vso odgovornost za svojo posadko in jadrnico in se samostojno odločijo za udeležbo na jadranju*.
 3. Program jadranja:
  - v primeru ugodnega vremena **jadramo čez Kvarner**,
  - *ob slabem vremenu (jugo) jadramo ob zahodni obali Istre*,
