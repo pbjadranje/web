@@ -11,3 +11,4 @@ eleventyExcludeFromCollections: true
 | 2. | Mornik        | Salona 38         | Peter Rijavec     |  4-5  |
 | 3. | Sirrah        | Motosailer        | David Horvat      |   4   |
 | 4. | Sir Francis   | Elan 31S          | Milan Gladek      |   4   |
+| 5. | Sara          | Elan 31S          | Vlado Kranjc      |   4   |
