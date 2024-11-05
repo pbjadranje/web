@@ -12,3 +12,5 @@ eleventyExcludeFromCollections: true
 | 3. | Sirrah        | Motosailer        | David Horvat      |   4   |
 | 4. | Sir Francis   | Elan 31S          | Milan Gladek      |   4   |
 | 5. | Sara          | Elan 31S          | Vlado Kranjc      |   4   |
+| 6. | Jagoda        | Mini 650          | Jaka Grčar        |   2   |
+| 7. | Elektra       | Aquavit 355       | Albin Trobec      |   3   |
