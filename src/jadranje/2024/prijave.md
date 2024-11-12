@@ -14,3 +14,6 @@ eleventyExcludeFromCollections: true
 | 5. | Sara          | Elan 31S          | Vlado Kranjc      |   4   |
 | 6. | Jagoda        | Mini 650          | Jaka Grčar        |   2   |
 | 7. | Elektra       | Aquavit 355       | Albin Trobec      |   3   |
+| 8. | Layla         | Y-40              | Miran Jelovšek    |   6   |
+| 9. | Lunga         | Elan 36           | Vinko Božič       |   3   |
+| 10.| 2Krigla       | Salona 37         | Rok Volk          |   4   |
