@@ -15,7 +15,7 @@ eleventyExcludeFromCollections: true
 | 6. | Jagoda        | Mini 650          | Jaka Grčar        |   2   |
 | 7. | Elektra       | Aquavit 355       | Albin Trobec      |   3   |
 | 8. | Layla         | Y-40              | Miran Jelovšek    |   6   |
-| 9. | Lunga         | Elan 36           | Vinko Božič       |   3   |
+| 9. | Lunga         | Elan 36           | Vinko Božič       |   4   |
 | 10.| 2Krigla       | Salona 37         | Rok Volk          |   4   |
 | 11.| Praznični dan | Pogo 850          | Emil Kozamernik   |   2   |
 | 12.| Fado          | Salona 37         | Tomaž Kogovšek    |   5   |

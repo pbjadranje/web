@@ -7,8 +7,12 @@ nor: https://drive.google.com/file/d/1Egkx3QI9gq4BdDdeSZDpQg1rOzV2LI2L/view?usp=
 rules: https://drive.google.com/file/d/1ubQp4uRhsZknSSURsHQMQNZ2ZbqCqDqU/view?usp=sharing
 apply: https://forms.gle/TxAt5Ec5p5N4Z7RV7
 attendees: prijave/
+weather: vreme/
 active: true
 summary: "Sprejemamo prijave: 4. - 7. december 2024"
+sponsors:
+    - marina-vrsar
+    - pojalabanda
 ---
 
 ## Vabilo na jadranje
