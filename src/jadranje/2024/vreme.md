@@ -6,19 +6,16 @@ eleventyExcludeFromCollections: true
 {% assign lastForecast = collections[route] | last %}
 {% assign image = lastForecast.url %}
 
-{% include 'weather-nav', route: '2024_a1' %}
+{% include 'weather-nav', route: '2024_b1' %}
 
-## Scenarij 1: čez Kvarner
-### Vrsar - Premuda: sreda, 4.12. ob 21h
-{% include 'weather-route', route: '2024_a1' %}
+## Scenarij B: ostanemo v Istri
+### Vrsar - Brioni - Vrsar: sreda, 4.12. ob 21h
+{% include 'weather-route', route: '2024_b1' %}
 
-### Premuda - Veruda: petek, 6.12. ob 9h
-{% include 'weather-route', route: '2024_a2' %}
+### Vrsar - Sv.Ivan - Vrsar: petek, 6.12. ob 9h
+{% include 'weather-route', route: '2024_b2' %}
 
-### Veruda - Vrsar: sobota, 7.12. ob 9h
-{% include 'weather-route', route: '2024_a3' %}
-
-## Scenarij 2: cilj Cres ali ob Istri
-_Se bo v primeru neprimernega vremena določil kasneje..._
+### Vrsar - Altijež - Lunga - Vrsar: sobota, 7.12. ob 8:30h
+{% include 'weather-route', route: '2024_b3' %}
 
 Povezava na stran za <a href="/vreme/" class="no-underline border-b-2 border-link hover:bg-link-hover">vreme in napovedi</a>.
