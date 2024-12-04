@@ -11,11 +11,11 @@ eleventyExcludeFromCollections: true
 | 2. | Mornik        | Salona 38         | Peter Rijavec     |  4-5  |
 | 3. | Sara          | Elan 31S          | Vlado Kranjc      |   4   |
 | 4. | Elektra       | Aquavit 355       | Albin Trobec      |   3   |
-| 5. | Layla         | Y-40              | Miran Jelovšek    |   6   |
-| 6. | Lunga         | Elan 36           | Vinko Božič       |   4   |
-| 7. | 2Krigla       | Salona 37         | Rok Volk          |   4   |
-| 8. | Praznični dan | Pogo 850          | Emil Kozamernik   |   2   |
-| 9. | Fado          | Salona 37         | Tomaž Kogovšek    |   5   |
+| 5. | Lunga         | Elan 36           | Vinko Božič       |   4   |
+| 6. | 2Krigla       | Salona 37         | Rok Volk          |   4   |
+| 7. | Praznični dan | Pogo 850          | Emil Kozamernik   |   2   |
+| 8. | Fado          | Salona 37         | Tomaž Kogovšek    |   5   |
+|    | <del>Layla</del> | <del>Y-40</del>  | ODPOVEDANO      |       |
 |    | <del>Sirrah</del> | <del>Motosailer</del> | ODPOVEDANO |      |
 |    | <del>Sir Francis</del> | <del>Elan 31S</del> | ODPOVEDANO |   |
 |    | <del>Jagoda</del> | <del>Mini 650</del> | ODPOVEDANO  |       |
