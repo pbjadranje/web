@@ -8,11 +8,11 @@ eleventyExcludeFromCollections: true
 | #  | Jadrnica      | Model             | Skiper            | Oseb  |
 |---:|:-------------:|:-----------------:|:-----------------:|:-----:|
 | 1. | Spectrum      | Bavaria Vision 42 | Luka Renko        |   4   |
-| 2. | Mornik        | Salona 38         | Peter Rijavec     |  4-5  |
-| 3. | Sara          | Elan 31S          | Vlado Kranjc      |   4   |
-| 4. | Elektra       | Aquavit 355       | Albin Trobec      |   3   |
+| 2. | Rum           | Salona 38         | Peter Rijavec     |   5   |
+| 3. | Sara          | Elan 31S          | Vlado Kranjc      |   3   |
+| 4. | Elektra       | Aquavit 355       | Albin Trobec      |   4   |
 | 5. | Lunga         | Elan 36           | Vinko Božič       |   4   |
-| 6. | 2Krigla       | Salona 37         | Rok Volk          |   4   |
+| 6. | 2Krigla       | Salona 37         | Rok Volk          |   3   |
 | 7. | Praznični dan | Pogo 850          | Emil Kozamernik   |   2   |
 | 8. | Fado          | Salona 37         | Tomaž Kogovšek    |   5   |
 |    | <del>Layla</del> | <del>Y-40</del>  | ODPOVEDANO      |       |
