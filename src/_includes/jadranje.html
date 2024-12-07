@@ -38,7 +38,7 @@ layout: base.html
                     {% endif %}
 
                     {% if results %}
-                        <li><a href="{{ results }}" class="no-underline border-b-2 border-link hover:bg-link-hover">Rezultati</a></li>
+                        <li><a href="{{ results }}" target="_blank" class="no-underline border-b-2 border-link hover:bg-link-hover">Rezultati</a></li>
                     {% endif %}
                     </ul>
                 {% endif %}
@@ -59,11 +59,11 @@ layout: base.html
                     {% endif %}
 
                     {% if attendees %}
-                        <li><a href="{{ attendees }}" class="no-underline border-b-2 border-link hover:bg-link-hover">Prijavljene jadrnice</a></li>
+                        <li><a href="{{ attendees }}" target="_blank" class="no-underline border-b-2 border-link hover:bg-link-hover">Prijavljene jadrnice</a></li>
                     {% endif %}
 
                     {% if weather %}
-                        <li><a href="{{ weather }}" class="no-underline border-b-2 border-link hover:bg-link-hover">Spremljanje vremenske napovedi</a></li>
+                        <li><a href="{{ weather }}" target="_blank" class="no-underline border-b-2 border-link hover:bg-link-hover">Spremljanje vremenske napovedi</a></li>
                     {% endif %}
                     </ul>
                 {% endif %}
