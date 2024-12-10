@@ -27,4 +27,4 @@ Druga etapa od **Vrsarja do Sv. Ivana in nazaj** se je tudi začela z malo vetra
 Tretja etapa je bila kratka: **Vrsar - Altijež - Lunga - Vrsar**, vetra je bilo malo, vseeno pa so vse jadrnice razen ene končale v časovni omejitvi. Po regati je bila podelitev, potem pa smo si zaželeli vse dobro in smo se vsi skupaj začeli vračati proti matičnim marinam, saj je bila napoved za nedeljo zelo slaba.
 
 ## Vtisi
- - [PBJ 2024 - foto - avtor: Luka Renko](https://photos.app.goo.gl/JwzrnKNYQdJJmHHj9)
+ - [PBJ 2024 - foto - avtor: U.Grošelj,G.M.Humar,J.Klasič,G.Kozovinc,A.Novak,L.Renko](https://photos.app.goo.gl/JwzrnKNYQdJJmHHj9)
